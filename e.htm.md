@@ -4422,7 +4422,7 @@ mso-bidi-font-weight:bold'><a name="_Toc240908184"><o:p>&nbsp;</o:p></a></span><
 _Toc240908184'></span><!--[if supportFields]><span style='mso-bookmark:_Toc240908184'></span><span
 style='mso-element:field-begin'></span><span style='mso-bookmark:_Toc240908184'><span
 lang=EN-US style='font-size:11.0pt;font-family:"Arial",sans-serif;mso-bidi-font-weight:
-bold'><span style='mso-spacerun:yes'> </span>TOC \o &quot;1-3&quot; \h \z \u <span
+bold'><span style='mso-spacerun:yes'>Â </span>TOC \o &quot;1-3&quot; \h \z \u <span
 style='mso-element:field-separator'></span></span></span><![endif]--><span
 style='mso-bookmark:_Toc240908184'></span><a href="#_Toc242071368"><span
 style='mso-bookmark:_Toc240908184'><span lang=EN-US style='font-size:11.0pt;
@@ -5561,7 +5561,7 @@ font-family:"Arial",sans-serif;mso-bidi-font-weight:bold;mso-no-proof:yes'><o:p>
 <p class=MsoToc2 style='tab-stops:right dotted 431.5pt'><span style='mso-bookmark:
 _Toc240908184'></span><a href="#_Toc242071410"><span style='mso-bookmark:_Toc240908184'><span
 lang=EN-US style='font-size:11.0pt;font-family:"Arial",sans-serif;mso-bidi-font-weight:
-bold;mso-no-proof:yes'>3.7 Examining Permission of a file: ls –l</span></span><span
+bold;mso-no-proof:yes'>3.7 Examining Permission of a file: ls Â–l</span></span><span
 style='mso-bookmark:_Toc240908184'><span lang=EN-US style='font-size:11.0pt;
 font-family:"Arial",sans-serif;color:windowtext;display:none;mso-hide:screen;
 mso-bidi-font-weight:bold;mso-no-proof:yes;text-decoration:none;text-underline:
@@ -5831,8 +5831,8 @@ font-family:"Arial",sans-serif;mso-bidi-font-weight:bold;mso-no-proof:yes'><o:p>
 <p class=MsoToc2 style='tab-stops:right dotted 431.5pt'><span style='mso-bookmark:
 _Toc240908184'></span><a href="#_Toc242071420"><span style='mso-bookmark:_Toc240908184'><span
 lang=EN-US style='font-size:11.0pt;font-family:"Arial",sans-serif;mso-bidi-font-weight:
-bold;mso-no-proof:yes'>5.3 Changing<span style='mso-spacerun:yes'>  </span>a
-User’s name: chfn</span></span><span style='mso-bookmark:_Toc240908184'><span
+bold;mso-no-proof:yes'>5.3 Changing<span style='mso-spacerun:yes'>Â  </span>a
+UserÂ’s name: chfn</span></span><span style='mso-bookmark:_Toc240908184'><span
 lang=EN-US style='font-size:11.0pt;font-family:"Arial",sans-serif;color:windowtext;
 display:none;mso-hide:screen;mso-bidi-font-weight:bold;mso-no-proof:yes;
 text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'>. </span></span></span><!--[if supportFields]><span
@@ -5858,7 +5858,7 @@ font-family:"Arial",sans-serif;mso-bidi-font-weight:bold;mso-no-proof:yes'><o:p>
 <p class=MsoToc2 style='tab-stops:right dotted 431.5pt'><span style='mso-bookmark:
 _Toc240908184'></span><a href="#_Toc242071421"><span style='mso-bookmark:_Toc240908184'><span
 lang=EN-US style='font-size:11.0pt;font-family:"Arial",sans-serif;mso-bidi-font-weight:
-bold;mso-no-proof:yes'>5.4 Changing a User Account’s Password: passwd</span></span><span
+bold;mso-no-proof:yes'>5.4 Changing a User AccountÂ’s Password: passwd</span></span><span
 style='mso-bookmark:_Toc240908184'><span lang=EN-US style='font-size:11.0pt;
 font-family:"Arial",sans-serif;color:windowtext;display:none;mso-hide:screen;
 mso-bidi-font-weight:bold;mso-no-proof:yes;text-decoration:none;text-underline:
@@ -7097,7 +7097,7 @@ style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Times New Roman"'>When Linus Torvalds introduced Linux and for a long time
 thereafter, Linux did not have a graphical user interface (GUI): I ran on
 character-based terminals only. All the tools ran from a command line. Today
-the Linux GUI is important but many people—especially system administrators—run
+the Linux GUI is important but many peopleÂ—especially system administratorsÂ—run
 many command line programs. Command line utilities are often faster, more
 powerful, or more complete than their GUI counterparts. Sometimes there is no
 GUI counterpart to a textual utility; some people just prefer the hands-on
@@ -7119,7 +7119,7 @@ style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 
 <p class=MsoNormal style='text-align:justify'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Times New Roman"'>Linux’s most common command interpreter is called <b
+"Times New Roman"'>LinuxÂ’s most common command interpreter is called <b
 style='mso-bidi-font-weight:normal'>bash</b>. <b style='mso-bidi-font-weight:
 normal'>Bash</b> is the abbreviation of <b style='mso-bidi-font-weight:normal'>Bourne-Again
 Shell</b>. <o:p></o:p></span></p>
@@ -7172,7 +7172,7 @@ lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-fon
 
 <p class=MsoNormal style='margin-left:18.0pt;text-indent:18.0pt'><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Times New Roman"'>$<span style='mso-spacerun:yes'>  </span></span><b
+"Times New Roman"'>$<span style='mso-spacerun:yes'>Â  </span></span><b
 style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:11.0pt;
 font-family:"Courier New"'>ls</span></b><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Courier New"'><o:p></o:p></span></p>
@@ -7183,8 +7183,8 @@ mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 <ul style='margin-top:0cm' type=disc>
  <li class=MsoNormal style='mso-list:l20 level1 lfo2;tab-stops:list 36.0pt'><span
      lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
-     mso-bidi-font-family:"Times New Roman"'>List the &#64257;les in the ‘long
-     format’ (giving more information):<o:p></o:p></span></li>
+     mso-bidi-font-family:"Times New Roman"'>List the &#64257;les in the Â‘long
+     formatÂ’ (giving more information):<o:p></o:p></span></li>
 </ul>
 
 <p class=MsoNormal style='margin-left:18.0pt;text-indent:18.0pt'><span
@@ -7193,9 +7193,9 @@ lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-fon
 
 <p class=MsoNormal style='margin-left:18.0pt;text-indent:18.0pt'><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Times New Roman"'>$<span style='mso-spacerun:yes'>  </span></span><b
+"Times New Roman"'>$<span style='mso-spacerun:yes'>Â  </span></span><b
 style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:11.0pt;
-font-family:"Courier New"'>ls –l<o:p></o:p></span></b></p>
+font-family:"Courier New"'>ls Â–l<o:p></o:p></span></b></p>
 
 <p class=MsoNormal style='margin-left:18.0pt;text-indent:18.0pt'><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
@@ -7214,7 +7214,7 @@ lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-fon
 
 <p class=MsoNormal style='margin-left:18.0pt;text-indent:18.0pt'><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Times New Roman"'>$<span style='mso-spacerun:yes'>  </span></span><b
+"Times New Roman"'>$<span style='mso-spacerun:yes'>Â  </span></span><b
 style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:11.0pt;
 font-family:"Courier New"'>ls -l notes.txt report.txt</span></b><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
@@ -7237,7 +7237,7 @@ lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-fon
 
 <p class=MsoNormal style='margin-left:18.0pt;text-indent:18.0pt'><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Times New Roman"'>$<span style='mso-spacerun:yes'>  </span></span><b
+"Times New Roman"'>$<span style='mso-spacerun:yes'>Â  </span></span><b
 style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:11.0pt;
 font-family:"Courier New"'>ls -l *.txt</span></b><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
@@ -7260,7 +7260,7 @@ lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-fon
 
 <p class=MsoNormal style='margin-left:18.0pt;text-indent:18.0pt'><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Times New Roman"'>$<span style='mso-spacerun:yes'>  </span></span><b
+"Times New Roman"'>$<span style='mso-spacerun:yes'>Â  </span></span><b
 style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:11.0pt;
 font-family:"Courier New"'>ls -l -a</span></b><b style='mso-bidi-font-weight:
 normal'><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
@@ -7268,7 +7268,7 @@ mso-bidi-font-family:"Courier New"'><o:p></o:p></span></b></p>
 
 <p class=MsoNormal style='margin-left:18.0pt;text-indent:18.0pt'><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Times New Roman"'>$<span style='mso-spacerun:yes'>  </span></span><b
+"Times New Roman"'>$<span style='mso-spacerun:yes'>Â  </span></span><b
 style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:11.0pt;
 font-family:"Courier New"'>ls -la</span></b><b style='mso-bidi-font-weight:
 normal'><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
@@ -7294,7 +7294,7 @@ style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Times New Roman"'> simply displays its arguments.<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
-mso-bidi-font-family:"Times New Roman"'><span style='mso-tab-count:1'>   </span><o:p></o:p></span></p>
+mso-bidi-font-family:"Times New Roman"'><span style='mso-tab-count:1'>Â Â  </span><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'>$ <b style='mso-bidi-font-weight:
@@ -7444,9 +7444,9 @@ mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
 mso-bidi-font-family:"Times New Roman"'><span
-style='mso-spacerun:yes'> </span>An <b style='mso-bidi-font-weight:normal'>absolute
+style='mso-spacerun:yes'>Â </span>An <b style='mso-bidi-font-weight:normal'>absolute
 path </b>starts at the root of the directory hierarchy and names directories or
-files under it. For example: <span style='mso-tab-count:1'>   </span><o:p></o:p></span></p>
+files under it. For example: <span style='mso-tab-count:1'>Â Â  </span><o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
 mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
@@ -7562,7 +7562,7 @@ mso-bidi-font-family:"Courier New"'><o:p>&nbsp;</o:p></span></p>
 <p class=MsoNormal style='text-align:justify'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Times New Roman"'>The shell has a <b style='mso-bidi-font-weight:normal'>current
-directory – </b>the directory in which currently the logged user is working in
+directory Â– </b>the directory in which currently the logged user is working in
 shell. Usually after firs login, the current directory should be the home
 directory of the user. Some commands like </span><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
@@ -7589,13 +7589,13 @@ mso-bidi-font-family:"Courier New"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
 mso-bidi-font-family:"Times New Roman"'>We can change the current directory
-with the command<span style='mso-spacerun:yes'>  </span></span><span
+with the command<span style='mso-spacerun:yes'>Â  </span></span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Courier New"'>cd :<o:p></o:p></span></p>
 
 <p class=MsoNormal style='text-indent:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Courier New"'><span style='mso-tab-count:1'>   </span></span><span lang=EN-US
+"Courier New"'><span style='mso-tab-count:1'>Â Â  </span></span><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='text-indent:36.0pt'><span lang=EN-US
@@ -7626,7 +7626,7 @@ normal'>cd /home/fred/documents</b>/<o:p></o:p></span></p>
 
 <p class=MsoNormal style='text-indent:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'>$ <b style='mso-bidi-font-weight:
-normal'>cd ˜/documents/<o:p></o:p></b></span></p>
+normal'>cd Â˜/documents/<o:p></o:p></b></span></p>
 
 <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
@@ -7645,7 +7645,7 @@ normal'>cd<o:p></o:p></b></span></p>
 
 <p class=MsoNormal style='text-indent:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'>$ <b style='mso-bidi-font-weight:
-normal'>cd ˜<o:p></o:p></b></span></p>
+normal'>cd Â˜<o:p></o:p></b></span></p>
 
 <p class=MsoNormal style='text-indent:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'>$ <b style='mso-bidi-font-weight:
@@ -7697,7 +7697,7 @@ mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
 mso-bidi-font-family:"Times New Roman"'>The directory<span
-style='mso-spacerun:yes'>  </span></span><span lang=EN-US style='font-size:
+style='mso-spacerun:yes'>Â  </span></span><span lang=EN-US style='font-size:
 11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:"Courier New"'>.. </span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Times New Roman"'>points to the parent directory. </span><b style='mso-bidi-font-weight:
@@ -7745,7 +7745,7 @@ mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
 mso-bidi-font-family:"Times New Roman"'>The directory<span
-style='mso-spacerun:yes'>  </span></span><span lang=EN-US style='font-size:
+style='mso-spacerun:yes'>Â  </span></span><span lang=EN-US style='font-size:
 11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:"Courier New"'>. </span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Times New Roman"'>points to the directory it is in. sp </span><span
@@ -7786,7 +7786,7 @@ style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Courier New"'>other-dir </span><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>in the
-parent directory of the current directory.<span style='mso-spacerun:yes'> 
+parent directory of the current directory.<span style='mso-spacerun:yes'>Â 
 </span>It is common to see </span><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Courier New"'>.. </span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
@@ -7844,7 +7844,7 @@ style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 mso-bidi-font-family:"Times New Roman"'>We use </span><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Courier New"'>rm</span><span lang=EN-US style='font-size:11.0pt;font-family:
-"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'> with –r option to
+"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'> with Â–r option to
 delete directories and all the files (recursively) they contain.<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
@@ -7852,7 +7852,7 @@ mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='margin-left:28.8pt;text-indent:7.2pt'><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Times New Roman"'>$<span style='mso-spacerun:yes'>  </span></span><b
+"Times New Roman"'>$<span style='mso-spacerun:yes'>Â  </span></span><b
 style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:11.0pt;
 font-family:"Courier New"'>rm -r OldMusics<o:p></o:p></span></b></p>
 
@@ -7874,7 +7874,7 @@ style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'> and </span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Courier New"'>..</span><span lang=EN-US style='font-size:11.0pt;font-family:
-"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'> directories don’t
+"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'> directories donÂ’t
 show up when we do </span><span lang=EN-US style='font-size:11.0pt;font-family:
 "Calibri",sans-serif;mso-bidi-font-family:"Courier New"'>ls.</span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
@@ -7898,7 +7898,7 @@ style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'> to list all
 files, even the hidden ones, by giving the </span><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Courier New"'>–a</span><span lang=EN-US style='font-size:11.0pt;font-family:
+"Courier New"'>Â–a</span><span lang=EN-US style='font-size:11.0pt;font-family:
 "Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'> option:<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
@@ -7995,7 +7995,7 @@ lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-fon
 "Times New Roman"'>. After </span><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Courier New"'>rm</span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Times New Roman"'> deletes the file,<span style='mso-spacerun:yes'>  </span></span><span
+"Times New Roman"'> deletes the file,<span style='mso-spacerun:yes'>Â  </span></span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Courier New"'>ls</span><span lang=EN-US style='font-size:11.0pt;font-family:
 "Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'> and </span><span
@@ -8208,7 +8208,7 @@ lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-fon
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Courier New"'>memo.copy</span><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>. The
-period is part of the filename—just another character. The initial </span><span
+period is part of the filenameÂ—just another character. The initial </span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Courier New"'>ls</span><span lang=EN-US style='font-size:11.0pt;font-family:
 "Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'> command shows
@@ -8367,8 +8367,8 @@ style='font-size:11.0pt;font-family:"Courier New"'>about it?<o:p></o:p></span></
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'><span
-style='mso-spacerun:yes'>           </span><span style='mso-tab-count:4'>    </span><span
-style='mso-spacerun:yes'> </span>Alex<o:p></o:p></span></p>
+style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â  </span><span style='mso-tab-count:4'>Â Â Â  </span><span
+style='mso-spacerun:yes'>Â </span>Alex<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'>$ <b style='mso-bidi-font-weight:
@@ -8412,7 +8412,7 @@ lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-fon
 "Times New Roman"'> would have displayed those lines as well because they
 contain the string it was searching for. The </span><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Courier New"'>–w</span><span lang=EN-US style='font-size:11.0pt;font-family:
+"Courier New"'>Â–w</span><span lang=EN-US style='font-size:11.0pt;font-family:
 "Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'> option causes </span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Courier New"'>grep</span><span lang=EN-US style='font-size:11.0pt;font-family:
@@ -8436,7 +8436,7 @@ _Toc240908198'><span lang=EN-US>1.5 Process Management</span></span></a></h2>
 <p class=MsoNormal style='text-align:justify'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Times New Roman"'>The kernel considers each program running on our system to
-be a <b style='mso-bidi-font-weight:normal'>process</b>. A process ‘lives’ as
+be a <b style='mso-bidi-font-weight:normal'>process</b>. A process Â‘livesÂ’ as
 it executes with a lifetime that may be short or long. A process is said to die
 when it terminates. The kernel identifies each process by a number known as
 process id, or <b style='mso-bidi-font-weight:normal'>pid. </b>A process has a
@@ -8452,7 +8452,7 @@ which together specifies what permissions it has. A process has a parent
 process id (</span><b style='mso-bidi-font-weight:normal'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Courier New"'>ppid</span></b><span lang=EN-US style='font-size:11.0pt;
-font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>) –
+font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>) Â–
 the </span><b style='mso-bidi-font-weight:normal'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Courier New"'>pid</span></b><span lang=EN-US style='font-size:11.0pt;
@@ -8480,7 +8480,7 @@ lang=EN-US style='mso-bidi-font-family:"Courier New"'>ps</span></span></span></h
 
 <p class=MsoNormal><b><span lang=EN-US style='font-size:11.0pt;font-family:
 "Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'><span
-style='mso-spacerun:yes'> </span><o:p></o:p></span></b></p>
+style='mso-spacerun:yes'>Â </span><o:p></o:p></span></b></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
 mso-bidi-font-family:"Times New Roman"'>The </span><span lang=EN-US
@@ -8497,15 +8497,15 @@ Some of the most commonly used are:<o:p></o:p></span></p>
 <ul style='margin-top:0cm' type=disc>
  <li class=MsoNormal style='mso-list:l20 level1 lfo2;tab-stops:list 36.0pt'><span
      lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
-     mso-bidi-font-family:"Times New Roman"'>-a – Show processes owned by other
+     mso-bidi-font-family:"Times New Roman"'>-a Â– Show processes owned by other
      users<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-list:l20 level1 lfo2;tab-stops:list 36.0pt'><span
      lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
-     mso-bidi-font-family:"Times New Roman"'>-f – display process ancestors in
+     mso-bidi-font-family:"Times New Roman"'>-f Â– display process ancestors in
      a tree-like format<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-list:l20 level1 lfo2;tab-stops:list 36.0pt'><span
      lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
-     mso-bidi-font-family:"Times New Roman"'>-u – use the user output format,
+     mso-bidi-font-family:"Times New Roman"'>-u Â– use the user output format,
      showing user names and process start times<o:p></o:p></span></li>
 </ul>
 
@@ -8525,7 +8525,7 @@ lang=EN-US style='mso-bidi-font-family:"Courier New"'>pstree</span></span></span
 mso-bidi-font-family:"Times New Roman"'>It also displays a snapshot of
 currently running processes. It always uses a tree like display similar to </span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Courier New"'>ps –f </span><span lang=EN-US style='font-size:11.0pt;
+"Courier New"'>ps Â–f </span><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>. Some
 of the most commonly used options for </span><span lang=EN-US style='font-size:
 11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:"Courier New"'>pstree</span><span
@@ -8535,27 +8535,27 @@ lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-fon
 <ul style='margin-top:0cm' type=disc>
  <li class=MsoNormal style='mso-list:l28 level1 lfo3;tab-stops:list 36.0pt'><span
      lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
-     mso-bidi-font-family:"Times New Roman";mso-bidi-font-weight:bold'>-a –
-     displays command’s arguments<b><o:p></o:p></b></span></li>
+     mso-bidi-font-family:"Times New Roman";mso-bidi-font-weight:bold'>-a Â–
+     displays commandÂ’s arguments<b><o:p></o:p></b></span></li>
  <li class=MsoNormal style='mso-list:l28 level1 lfo3;tab-stops:list 36.0pt'><span
      lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
-     mso-bidi-font-family:"Times New Roman";mso-bidi-font-weight:bold'>-c –
-     don’t compact identical subtrees<b><o:p></o:p></b></span></li>
+     mso-bidi-font-family:"Times New Roman";mso-bidi-font-weight:bold'>-c Â–
+     donÂ’t compact identical subtrees<b><o:p></o:p></b></span></li>
  <li class=MsoNormal style='mso-list:l28 level1 lfo3;tab-stops:list 36.0pt'><span
      lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
-     mso-bidi-font-family:"Times New Roman";mso-bidi-font-weight:bold'>-G –
+     mso-bidi-font-family:"Times New Roman";mso-bidi-font-weight:bold'>-G Â–
      attempts to use terminal specific line-drawing characters<b><o:p></o:p></b></span></li>
  <li class=MsoNormal style='mso-list:l28 level1 lfo3;tab-stops:list 36.0pt'><span
      lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
-     mso-bidi-font-family:"Times New Roman";mso-bidi-font-weight:bold'>-h –
+     mso-bidi-font-family:"Times New Roman";mso-bidi-font-weight:bold'>-h Â–
      highlights the ancestors of the current process<b><o:p></o:p></b></span></li>
  <li class=MsoNormal style='mso-list:l28 level1 lfo3;tab-stops:list 36.0pt'><span
      lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
-     mso-bidi-font-family:"Times New Roman";mso-bidi-font-weight:bold'>-n –
+     mso-bidi-font-family:"Times New Roman";mso-bidi-font-weight:bold'>-n Â–
      sort processes numerically by pid, rather then alphabetically by name<b><o:p></o:p></b></span></li>
  <li class=MsoNormal style='mso-list:l28 level1 lfo3;tab-stops:list 36.0pt'><span
      lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
-     mso-bidi-font-family:"Times New Roman";mso-bidi-font-weight:bold'>-p –
+     mso-bidi-font-family:"Times New Roman";mso-bidi-font-weight:bold'>-p Â–
      includes pid in the output<b><o:p></o:p></b></span></li>
 </ul>
 
@@ -8588,28 +8588,28 @@ lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-fon
      lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
      mso-bidi-font-family:"Courier New"'>-b</span><span lang=EN-US
      style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-     "Times New Roman"'> – Batch mode — send snapshots to standard output<o:p></o:p></span></li>
+     "Times New Roman"'> Â– Batch mode Â— send snapshots to standard output<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-list:l6 level1 lfo4;tab-stops:list 36.0pt'><span
      lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
      mso-bidi-font-family:"Courier New"'>-n num</span><span lang=EN-US
      style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-     "Times New Roman"'> – Exit after displaying num snapshots<o:p></o:p></span></li>
+     "Times New Roman"'> Â– Exit after displaying num snapshots<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-list:l6 level1 lfo4;tab-stops:list 36.0pt'><span
      lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
      mso-bidi-font-family:"Courier New"'>-d delay</span><span lang=EN-US
      style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-     "Times New Roman"'> – Wait delay seconds between each snapshot<o:p></o:p></span></li>
+     "Times New Roman"'> Â– Wait delay seconds between each snapshot<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-list:l6 level1 lfo4;tab-stops:list 36.0pt'><span
      lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
      mso-bidi-font-family:"Courier New"'>-i </span><span lang=EN-US
      style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-     "Times New Roman"'><span style='mso-spacerun:yes'> </span>– Ignore idle
+     "Times New Roman"'><span style='mso-spacerun:yes'>Â </span>Â– Ignore idle
      processes<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-list:l6 level1 lfo4;tab-stops:list 36.0pt'><span
      lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
-     mso-bidi-font-family:"Courier New"'>–s</span><span lang=EN-US
+     mso-bidi-font-family:"Courier New"'>Â–s</span><span lang=EN-US
      style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-     "Times New Roman"'><span style='mso-spacerun:yes'>  </span>– Disable
+     "Times New Roman"'><span style='mso-spacerun:yes'>Â  </span>Â– Disable
      interactive commands which could be dangerous the superuser<o:p></o:p></span></li>
 </ul>
 
@@ -8692,7 +8692,7 @@ mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
-  mso-bidi-font-family:"Times New Roman"'>Interrupt — stop running. Sent by the
+  mso-bidi-font-family:"Times New Roman"'>Interrupt Â— stop running. Sent by the
   kernel when<o:p></o:p></span></p>
   <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
   mso-bidi-font-family:"Times New Roman"'>you press Ctrl+C in a terminal.<o:p></o:p></span></p>
@@ -8717,7 +8717,7 @@ mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
-  mso-bidi-font-family:"Times New Roman"'>“Please terminate.” Used to ask a
+  mso-bidi-font-family:"Times New Roman"'>Â“Please terminate.Â” Used to ask a
   process to exit<o:p></o:p></span></p>
   <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
   mso-bidi-font-family:"Times New Roman"'>gracefully.<o:p></o:p></span></p>
@@ -8742,7 +8742,7 @@ mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
-  mso-bidi-font-family:"Times New Roman"'>“Die!” Forces the process to stop
+  mso-bidi-font-family:"Times New Roman"'>Â“Die!Â” Forces the process to stop
   running; it is given<o:p></o:p></span></p>
   <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
   mso-bidi-font-family:"Times New Roman"'>no opportunity to clean up after
@@ -8754,7 +8754,7 @@ mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
-  mso-bidi-font-family:"Times New Roman"'>TSTP<span style='mso-spacerun:yes'> 
+  mso-bidi-font-family:"Times New Roman"'>TSTP<span style='mso-spacerun:yes'>Â 
   </span><o:p></o:p></span></p>
   </td>
   <td width=77 valign=top style='width:57.85pt;border-top:none;border-left:
@@ -8854,7 +8854,7 @@ lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-fon
 default </span><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
 mso-bidi-font-family:"Courier New"'>kill</span><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Times New Roman"'> will send a SIGTERM<span style='mso-spacerun:yes'> 
+"Times New Roman"'> will send a SIGTERM<span style='mso-spacerun:yes'>Â 
 </span>to the process. We can specify more than one </span><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Courier New"'>pid</span><span lang=EN-US style='font-size:11.0pt;font-family:
@@ -8889,10 +8889,10 @@ changes, you have to explicitly tell the daemon by sending it a SIGHUP signal.
 We can sometimes use </span><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Courier New"'>pidof</span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Times New Roman"'> to &#64257;nd the dæmon’s pid: for example, to tell the </span><span
+"Times New Roman"'> to &#64257;nd the dÃ¦monÂ’s pid: for example, to tell the </span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Courier New"'>inetd</span><span lang=EN-US style='font-size:11.0pt;font-family:
-"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'> dæmon to reload
+"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'> dÃ¦mon to reload
 its con&#64257;guration, we can run:<o:p></o:p></span></p>
 
 <p class=MsoNormal style='text-indent:36.0pt'><span lang=EN-US
@@ -8942,7 +8942,7 @@ style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Courier New"'>nice</span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Times New Roman"'> command starts a program with a given priority bias.
-Peculiar name: ‘nicer’ processes require fewer resources. Niceness ranges from
+Peculiar name: Â‘nicerÂ’ processes require fewer resources. Niceness ranges from
 +19 (very nice) to &#8722;20 (not very nice). Non-root users can only specify
 values from 1 to 19; the root user can specify the full range of values.
 Default niceness when using nice is 10.<o:p></o:p></span></p>
@@ -9003,7 +9003,7 @@ style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Courier New"'> renice</span><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>
 changes the niceness of existing processes. Non-root users are only permitted
-to increase a process’s niceness. To set the process with pid 2984 to a higher
+to increase a processÂ’s niceness. To set the process with pid 2984 to a higher
 niceness (lower priority):<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
@@ -9019,10 +9019,10 @@ style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 
 <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
 mso-bidi-font-family:"Times New Roman"'>The niceness is just a number: no extra
-– sign. To set the process with pid 3598 to a lower niceness (higher priority):<o:p></o:p></span></p>
+Â– sign. To set the process with pid 3598 to a lower niceness (higher priority):<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
-mso-bidi-font-family:"Times New Roman"'><span style='mso-tab-count:1'>   </span><o:p></o:p></span></p>
+mso-bidi-font-family:"Times New Roman"'><span style='mso-tab-count:1'>Â Â  </span><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'>$ <b style='mso-bidi-font-weight:
@@ -9033,7 +9033,7 @@ mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
 mso-bidi-font-family:"Times New Roman"'>You can also change the niceness of all
-a user’s processes:<o:p></o:p></span></p>
+a userÂ’s processes:<o:p></o:p></span></p>
 
 <p class=MsoNormal style='text-indent:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
@@ -9073,7 +9073,7 @@ font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>Ubuntu
 has something called <i>apt-get</i>, which allows you to draw from a set of
 online repositories (stored in the /etc/apt/sources.list file) that house
 packages (i.e., programs/software). The <i>apt-get</i> command does several
-things at once—it downloads the appropriate files, downloads all their
+things at onceÂ—it downloads the appropriate files, downloads all their
 dependencies, and installs all of them. A single command installs the software.
 You don't have to download a separate installer file or unzip or go through a
 wizard or reboot. For example, if I wanted to install Thunderbird, I'd type
@@ -9135,7 +9135,7 @@ specify remote sources. Doing so can save many minutes of download time.<o:p></o
 <p class=para><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
 mso-bidi-font-family:"Times New Roman"'>Each line has the form:<o:p></o:p></span></p>
 
-<pre><span lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>    </span>deb <em><span
+<pre><span lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>Â Â Â  </span>deb <em><span
 style='font-family:"Courier New"'><o:p></o:p></span></em></span></pre><pre
 style='margin-left:28.8pt'><em><span lang=EN-US style='font-size:11.0pt;
 font-family:"Courier New"'>uri distribution components</span></em><span
@@ -9355,7 +9355,7 @@ style='font-size:11.0pt;font-family:"Courier New"'>$ <b>sudo apt-get update<o:p>
 
 <h4 style='margin-left:0cm;text-indent:0cm;mso-list:l35 level4 lfo33'><a
 name=DAPPC-PGFID-946141><span lang=EN-US>1.6.3.2 Installing a <span
-style='mso-spacerun:yes'> </span>Package</span></a></h4>
+style='mso-spacerun:yes'>Â </span>Package</span></a></h4>
 
 <p class=para><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
 mso-bidi-font-family:"Times New Roman"'>To install a specified package, issue
@@ -9416,7 +9416,7 @@ mso-bidi-font-family:"Times New Roman"'>To do this, open the Terminal and type:
 
 <p class=MsoNormal style='margin-left:36.0pt'><b><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'><span
-style='mso-spacerun:yes'> </span></span></b><span lang=EN-US style='font-size:
+style='mso-spacerun:yes'>Â </span></span></b><span lang=EN-US style='font-size:
 11.0pt;font-family:"Courier New"'>$ s<b>udo apt-get install alien<o:p></o:p></b></span></p>
 
 <p><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
@@ -9442,7 +9442,7 @@ Terminal, type: <o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><b><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'><span
-style='mso-spacerun:yes'> </span></span></b><span lang=EN-US style='font-size:
+style='mso-spacerun:yes'>Â </span></span></b><span lang=EN-US style='font-size:
 11.0pt;font-family:"Courier New"'>$ <b>sudo alien -k filename.rpm<o:p></o:p></b></span></p>
 
 <p><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
@@ -9465,7 +9465,7 @@ systems Desktop. Once saved, open the Terminal and type: <o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Times New Roman"'><span style='mso-spacerun:yes'> </span></span><span
+"Times New Roman"'><span style='mso-spacerun:yes'>Â </span></span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Courier New"'>$ <b>cd Desktop<o:p></o:p></b></span></p>
 
 <p><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
@@ -9557,7 +9557,7 @@ is already in a compressed format. The following example shows a boring file.
 Each of the 8,000 lines of the </span><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Courier New"'>letter_e </span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Times New Roman"'>file contains 72 e’s and a NEWLINE character that marks the
+"Times New Roman"'>file contains 72 eÂ’s and a NEWLINE character that marks the
 end of the line. The file occupies more than half a megabyte of disk storage.<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
@@ -9569,25 +9569,25 @@ normal'>ls -l</b><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'>-rw-rw-r--<span
-style='mso-spacerun:yes'>  </span>1 sam sam 584000 Mar<span
-style='mso-spacerun:yes'>  </span>1 <st1:time Minute="31" Hour="22" w:st="on">22:31</st1:time>
+style='mso-spacerun:yes'>Â  </span>1 sam sam 584000 Mar<span
+style='mso-spacerun:yes'>Â  </span>1 <st1:time Minute="31" Hour="22" w:st="on">22:31</st1:time>
 letter_e<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
 mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
-mso-bidi-font-family:"Times New Roman"'>The<span style='mso-spacerun:yes'> 
+mso-bidi-font-family:"Times New Roman"'>The<span style='mso-spacerun:yes'>Â 
 </span></span><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
-mso-bidi-font-family:"Courier New"'>–l</span><span lang=EN-US style='font-size:
+mso-bidi-font-family:"Courier New"'>Â–l</span><span lang=EN-US style='font-size:
 11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>
-(long) option causes<span style='mso-spacerun:yes'>  </span>ls to display more
+(long) option causes<span style='mso-spacerun:yes'>Â  </span>ls to display more
 information about a file. Here it shows that letter_e is 584,000 bytes long.
 The </span><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
-mso-bidi-font-family:"Courier New"'>––verbose </span><span lang=EN-US
+mso-bidi-font-family:"Courier New"'>Â–Â–verbose </span><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Times New Roman"'>(or </span><span lang=EN-US style='font-size:11.0pt;
-font-family:"Calibri",sans-serif;mso-bidi-font-family:"Courier New"'>–v</span><span
+font-family:"Calibri",sans-serif;mso-bidi-font-family:"Courier New"'>Â–v</span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Times New Roman"'>) option causes </span><span lang=EN-US style='font-size:
 11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:"Courier New"'>bzip2</span><span
@@ -9612,8 +9612,8 @@ normal'>ls -l</b><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'>-rw-rw-r--<span
-style='mso-spacerun:yes'>  </span>1 sam sam 50 Mar<span
-style='mso-spacerun:yes'>  </span>1 <st1:time Minute="31" Hour="22" w:st="on">22:31</st1:time>
+style='mso-spacerun:yes'>Â  </span>1 sam sam 50 Mar<span
+style='mso-spacerun:yes'>Â  </span>1 <st1:time Minute="31" Hour="22" w:st="on">22:31</st1:time>
 letter_e.bz2<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
@@ -9634,14 +9634,14 @@ without first decompressing it. The </span><span lang=EN-US style='font-size:
 11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:"Courier New"'>bzip2</span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Times New Roman"'> utility does not change the modification date associated
-with the file, even though it completely changes the file’s contents.<o:p></o:p></span></p>
+with the file, even though it completely changes the fileÂ’s contents.<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
 mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
 mso-bidi-font-family:"Times New Roman"'>In the following, more realistic
-example, the file<span style='mso-spacerun:yes'>  </span></span><span
+example, the file<span style='mso-spacerun:yes'>Â  </span></span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Courier New"'>zach.jpg </span><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>contains
@@ -9659,8 +9659,8 @@ normal'>ls -l</b><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'>-rw-r--r--<span
-style='mso-spacerun:yes'>  </span>1 sam sam 33287 Mar<span
-style='mso-spacerun:yes'>  </span>1 <st1:time Minute="40" Hour="22" w:st="on">22:40</st1:time>
+style='mso-spacerun:yes'>Â  </span>1 sam sam 33287 Mar<span
+style='mso-spacerun:yes'>Â  </span>1 <st1:time Minute="40" Hour="22" w:st="on">22:40</st1:time>
 zach.jpg<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
@@ -9683,7 +9683,7 @@ normal'>bzip2 -v zach.jpg</b><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'>zach.jpg:<span
-style='mso-spacerun:yes'>  </span>1.391:1,<span style='mso-spacerun:yes'> 
+style='mso-spacerun:yes'>Â  </span>1.391:1,<span style='mso-spacerun:yes'>Â 
 </span>5.749 bits/byte, 28.13% saved, 33287 in, 23922 out.<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
@@ -9720,8 +9720,8 @@ normal'>ls -l</b><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'>-rw-rw-r--<span
-style='mso-spacerun:yes'>  </span>1 sam sam 584000 Mar<span
-style='mso-spacerun:yes'>  </span>1 <st1:time Minute="31" Hour="22" w:st="on">22:31</st1:time>
+style='mso-spacerun:yes'>Â  </span>1 sam sam 584000 Mar<span
+style='mso-spacerun:yes'>Â  </span>1 <st1:time Minute="31" Hour="22" w:st="on">22:31</st1:time>
 letter_e<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
@@ -9734,8 +9734,8 @@ normal'>ls -l<o:p></o:p></b></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'>-rw-r--r--<span
-style='mso-spacerun:yes'>  </span>1 sam sam<span style='mso-spacerun:yes'> 
-</span>33287 Mar<span style='mso-spacerun:yes'>  </span>1 <st1:time Minute="40"
+style='mso-spacerun:yes'>Â  </span>1 sam sam<span style='mso-spacerun:yes'>Â 
+</span>33287 Mar<span style='mso-spacerun:yes'>Â  </span>1 <st1:time Minute="40"
 Hour="22" w:st="on">22:40</st1:time> zach.jpg<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
@@ -9747,7 +9747,7 @@ lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-fon
 "Courier New"'>bzip2 </span><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>with </span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Courier New"'>–d </span><span lang=EN-US style='font-size:11.0pt;font-family:
+"Courier New"'>Â–d </span><span lang=EN-US style='font-size:11.0pt;font-family:
 "Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>option.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='text-indent:36.0pt'><span lang=EN-US
@@ -9786,14 +9786,14 @@ pages in </span><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",s
 mso-bidi-font-family:"Courier New"'>gzip</span><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Times New Roman"'> format to save disk space; likewise, files you download
-from the Internet are frequently in<span style='mso-spacerun:yes'>  </span></span><span
+from the Internet are frequently in<span style='mso-spacerun:yes'>Â  </span></span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Courier New"'>gzip</span><span lang=EN-US style='font-size:11.0pt;font-family:
 "Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'> format. Use </span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Courier New"'>gzip</span><span lang=EN-US style='font-size:11.0pt;font-family:
 "Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'> <span
-style='mso-spacerun:yes'> </span></span><span lang=EN-US style='font-size:11.0pt;
+style='mso-spacerun:yes'>Â </span></span><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Courier New"'>and gunzip</span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Times New Roman"'> just as you would use </span><span lang=EN-US
@@ -9846,18 +9846,18 @@ lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-fon
 "Times New Roman"'>, and </span><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Courier New"'>d</span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Times New Roman"'>. Next<span style='mso-spacerun:yes'>  </span></span><span
+"Times New Roman"'>. Next<span style='mso-spacerun:yes'>Â  </span></span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Courier New"'>ta</span><span lang=EN-US style='font-size:11.0pt;font-family:
 "Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>r uses the </span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Courier New"'>–c</span><span lang=EN-US style='font-size:11.0pt;font-family:
+"Courier New"'>Â–c</span><span lang=EN-US style='font-size:11.0pt;font-family:
 "Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'> (create), </span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Courier New"'>–v</span><span lang=EN-US style='font-size:11.0pt;font-family:
+"Courier New"'>Â–v</span><span lang=EN-US style='font-size:11.0pt;font-family:
 "Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'> (verbose), and </span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Courier New"'>–f</span><span lang=EN-US style='font-size:11.0pt;font-family:
+"Courier New"'>Â–f</span><span lang=EN-US style='font-size:11.0pt;font-family:
 "Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'> (write to or read
 from a file) options to create an archive named </span><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
@@ -9888,17 +9888,17 @@ normal'>ls -l g b d</b><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'>-rw-r--r--<span
-style='mso-spacerun:yes'>   </span>1 jenny jenny 1302 Aug 20 <st1:time
+style='mso-spacerun:yes'>Â Â  </span>1 jenny jenny 1302 Aug 20 <st1:time
 Minute="16" Hour="14" w:st="on">14:16</st1:time> g<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'>-rw-r--r--<span
-style='mso-spacerun:yes'>   </span>1 jenny other 1178 Aug 20 <st1:time
+style='mso-spacerun:yes'>Â Â  </span>1 jenny other 1178 Aug 20 <st1:time
 Minute="16" Hour="14" w:st="on">14:16</st1:time> b<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'>-rw-r--r--<span
-style='mso-spacerun:yes'>   </span>1 jenny jenny 3783 Aug 20 <st1:time
+style='mso-spacerun:yes'>Â Â  </span>1 jenny jenny 3783 Aug 20 <st1:time
 Minute="17" Hour="14" w:st="on">14:17</st1:time> d<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
@@ -9920,7 +9920,7 @@ normal'>ls -l all.tar</b><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'>-rw-r--r--<span
-style='mso-spacerun:yes'>   </span>1 jenny jenny 9728 Aug 20 <st1:time
+style='mso-spacerun:yes'>Â Â  </span>1 jenny jenny 9728 Aug 20 <st1:time
 Minute="17" Hour="14" w:st="on">14:17</st1:time> all.tar<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
@@ -9929,17 +9929,17 @@ normal'>tar -tvf all.tar</b><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'>-rw-r--r-- jenny/jenny<span
-style='mso-spacerun:yes'>    </span>1302 2007-08-20 <st1:time Minute="16"
+style='mso-spacerun:yes'>Â Â Â  </span>1302 2007-08-20 <st1:time Minute="16"
 Hour="14" w:st="on">14:16</st1:time> g<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'>-rw-r--r-- jenny/other<span
-style='mso-spacerun:yes'>    </span>1178 2007-08-20 <st1:time Minute="16"
+style='mso-spacerun:yes'>Â Â Â  </span>1178 2007-08-20 <st1:time Minute="16"
 Hour="14" w:st="on">14:16</st1:time> b<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'>-rw-r--r-- jenny/jenny<span
-style='mso-spacerun:yes'>    </span>3783 2007-08-20 <st1:time Minute="17"
+style='mso-spacerun:yes'>Â Â Â  </span>3783 2007-08-20 <st1:time Minute="17"
 Hour="14" w:st="on">14:17</st1:time> d<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
@@ -9949,17 +9949,17 @@ mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Times New Roman"'>The final command in the preceding example uses the </span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Courier New"'>–t</span><span lang=EN-US style='font-size:11.0pt;font-family:
+"Courier New"'>Â–t</span><span lang=EN-US style='font-size:11.0pt;font-family:
 "Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'> option to display
 a table of contents for the archive. Use </span><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Courier New"'>–x</span><span lang=EN-US style='font-size:11.0pt;font-family:
+"Courier New"'>Â–x</span><span lang=EN-US style='font-size:11.0pt;font-family:
 "Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'> instead of </span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Courier New"'>–t </span><span lang=EN-US style='font-size:11.0pt;font-family:
+"Courier New"'>Â–t </span><span lang=EN-US style='font-size:11.0pt;font-family:
 "Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>to extract files
 from a tar archive. Omit the </span><span lang=EN-US style='font-size:11.0pt;
-font-family:"Calibri",sans-serif;mso-bidi-font-family:"Courier New"'>–v</span><span
+font-family:"Calibri",sans-serif;mso-bidi-font-family:"Courier New"'>Â–v</span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Times New Roman"'> option if you want </span><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
@@ -9978,7 +9978,7 @@ lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-fon
 "Times New Roman"'>, or </span><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Courier New"'>gzip</span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Times New Roman"'> to compress<span style='mso-spacerun:yes'>  </span>tar
+"Times New Roman"'> to compress<span style='mso-spacerun:yes'>Â  </span>tar
 files, making them easier to store and handle. Many files you download from the
 Internet will already be in one of these formats. Files that have been
 processed by </span><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
@@ -9988,14 +9988,14 @@ and compressed by </span><span lang=EN-US style='font-size:11.0pt;font-family:
 "Calibri",sans-serif;mso-bidi-font-family:"Courier New"'>bzip2</span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Times New Roman"'> frequently have a filename extension of<span
-style='mso-spacerun:yes'>  </span></span><span lang=EN-US style='font-size:
+style='mso-spacerun:yes'>Â  </span></span><span lang=EN-US style='font-size:
 11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:"Courier New"'>.tar.bz2</span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Times New Roman"'> or<span style='mso-spacerun:yes'>  </span></span><span
+"Times New Roman"'> or<span style='mso-spacerun:yes'>Â  </span></span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Courier New"'>.tbz</span><span lang=EN-US style='font-size:11.0pt;font-family:
 "Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>. Those processed
-by<span style='mso-spacerun:yes'>  </span></span><span lang=EN-US
+by<span style='mso-spacerun:yes'>Â  </span></span><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Courier New"'>ta</span><span lang=EN-US style='font-size:11.0pt;font-family:
 "Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>r and </span><span
@@ -10027,7 +10027,7 @@ instead of </span><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri"
 mso-bidi-font-family:"Courier New"'>gunzip</span><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Times New Roman"'>.) The next example shows how to unpack the GNU<span
-style='mso-spacerun:yes'>  </span>make utility.<o:p></o:p></span></p>
+style='mso-spacerun:yes'>Â  </span>make utility.<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
 mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
@@ -10038,7 +10038,7 @@ normal'>ls -l mak*</b><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'>-rw-rw-r-- <span
-style='mso-spacerun:yes'> </span>1 sam sam 1211924 Jan 20 <st1:time Minute="49"
+style='mso-spacerun:yes'>Â </span>1 sam sam 1211924 Jan 20 <st1:time Minute="49"
 Hour="11" w:st="on">11:49</st1:time><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
@@ -10054,7 +10054,7 @@ normal'>ls -l mak</b>*<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'>-rw-rw-r--<span
-style='mso-spacerun:yes'>  </span>1 sam sam 4823040 Jan 20 <st1:time Minute="49"
+style='mso-spacerun:yes'>Â  </span>1 sam sam 4823040 Jan 20 <st1:time Minute="49"
 Hour="11" w:st="on">11:49</st1:time><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
@@ -10088,7 +10088,7 @@ mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 <p class=MsoNormal style='text-align:justify'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Times New Roman"'>The first command lists the downloaded<span
-style='mso-spacerun:yes'>  </span>tarred and<span style='mso-spacerun:yes'> 
+style='mso-spacerun:yes'>Â  </span>tarred and<span style='mso-spacerun:yes'>Â 
 </span>gzipped file: </span><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Courier New"'>make-3.80.tar.gz
 </span><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
@@ -10096,7 +10096,7 @@ mso-bidi-font-family:"Times New Roman"'>(about 1.2 megabytes). The asterisk (*)
 in the filename matches any characters in any filenames, so you end up with a
 list of files whose names begin with mak; in this case there is only one. Using
 an asterisk saves typing and can improve accuracy with long filenames. The<span
-style='mso-spacerun:yes'>  </span></span><span lang=EN-US style='font-size:
+style='mso-spacerun:yes'>Â  </span></span><span lang=EN-US style='font-size:
 11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:"Courier New"'>gunzip</span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Times New Roman"'> command decompresses the file and yields </span><span
@@ -10124,14 +10124,14 @@ normal'>ls -ld mak*</b><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'>drwxrwxr-x<span
-style='mso-spacerun:yes'>  </span>8 sam sam<span style='mso-spacerun:yes'>   
+style='mso-spacerun:yes'>Â  </span>8 sam sam<span style='mso-spacerun:yes'>Â Â Â 
 </span>4096 <st1:date Year="2002" Day="3" Month="10" w:st="on">Oct<span
- style='mso-spacerun:yes'>  </span>3<span style='mso-spacerun:yes'> 
+ style='mso-spacerun:yes'>Â  </span>3<span style='mso-spacerun:yes'>Â 
  </span>2002</st1:date> make-3.80<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'>-rw-rw-r--<span
-style='mso-spacerun:yes'>  </span>1 sam sam 4823040 Jan 20 <st1:time Minute="49"
+style='mso-spacerun:yes'>Â  </span>1 sam sam 4823040 Jan 20 <st1:time Minute="49"
 Hour="11" w:st="on">11:49</st1:time> make-3.80.tar<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
@@ -10143,29 +10143,29 @@ style='font-size:11.0pt;font-family:"Courier New"'>total 1816<o:p></o:p></span><
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'>-rw-r--r--<span
-style='mso-spacerun:yes'>  </span>1 sam sam<span style='mso-spacerun:yes'> 
+style='mso-spacerun:yes'>Â  </span>1 sam sam<span style='mso-spacerun:yes'>Â 
 </span>24687 <st1:date Year="2002" Day="3" Month="10" w:st="on">Oct<span
- style='mso-spacerun:yes'>  </span>3<span style='mso-spacerun:yes'> 
+ style='mso-spacerun:yes'>Â  </span>3<span style='mso-spacerun:yes'>Â 
  </span>2002</st1:date> ABOUT-NLS<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'>-rw-r--r--<span
-style='mso-spacerun:yes'>  </span>1 sam sam<span style='mso-spacerun:yes'>  
+style='mso-spacerun:yes'>Â  </span>1 sam sam<span style='mso-spacerun:yes'>Â Â 
 </span>1554 <st1:date Year="2002" Day="8" Month="7" w:st="on">Jul<span
- style='mso-spacerun:yes'>  </span>8<span style='mso-spacerun:yes'> 
+ style='mso-spacerun:yes'>Â  </span>8<span style='mso-spacerun:yes'>Â 
  </span>2002</st1:date> AUTHORS<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'>-rw-r--r--<span
-style='mso-spacerun:yes'>  </span>1 sam sam<span style='mso-spacerun:yes'> 
+style='mso-spacerun:yes'>Â  </span>1 sam sam<span style='mso-spacerun:yes'>Â 
 </span>18043 <st1:date Year="1996" Day="10" Month="12" w:st="on">Dec 10<span
- style='mso-spacerun:yes'>  </span>1996</st1:date> COPYING<o:p></o:p></span></p>
+ style='mso-spacerun:yes'>Â  </span>1996</st1:date> COPYING<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'>-rw-r--r--<span
-style='mso-spacerun:yes'>  </span>1 sam sam<span style='mso-spacerun:yes'> 
+style='mso-spacerun:yes'>Â  </span>1 sam sam<span style='mso-spacerun:yes'>Â 
 </span>32922 <st1:date Year="2002" Day="3" Month="10" w:st="on">Oct<span
- style='mso-spacerun:yes'>  </span>3<span style='mso-spacerun:yes'> 
+ style='mso-spacerun:yes'>Â  </span>3<span style='mso-spacerun:yes'>Â 
  </span>2002</st1:date> ChangeLog<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
@@ -10173,22 +10173,22 @@ style='font-size:11.0pt;font-family:"Courier New"'>...<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'>-rw-r--r--<span
-style='mso-spacerun:yes'>  </span>1 sam sam<span style='mso-spacerun:yes'> 
+style='mso-spacerun:yes'>Â  </span>1 sam sam<span style='mso-spacerun:yes'>Â 
 </span>16520 <st1:date Year="2000" Day="21" Month="1" w:st="on">Jan 21<span
- style='mso-spacerun:yes'>  </span>2000</st1:date> vmsify.c<o:p></o:p></span></p>
+ style='mso-spacerun:yes'>Â  </span>2000</st1:date> vmsify.c<o:p></o:p></span></p>
 
 <p class=MsoNormal style='text-indent:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'>-rw-r--r--<span
-style='mso-spacerun:yes'>  </span>1 sam sam<span style='mso-spacerun:yes'> 
+style='mso-spacerun:yes'>Â  </span>1 sam sam<span style='mso-spacerun:yes'>Â 
 </span>16409 <st1:date Year="2002" Day="9" Month="8" w:st="on">Aug<span
- style='mso-spacerun:yes'>  </span>9<span style='mso-spacerun:yes'> 
+ style='mso-spacerun:yes'>Â  </span>9<span style='mso-spacerun:yes'>Â 
  </span>2002</st1:date> vpath.c<o:p></o:p></span></p>
 
 <p class=MsoNormal style='text-indent:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'>drwxrwxr-x<span
-style='mso-spacerun:yes'>  </span>5 sam sam<span style='mso-spacerun:yes'>  
+style='mso-spacerun:yes'>Â  </span>5 sam sam<span style='mso-spacerun:yes'>Â Â 
 </span>4096 <st1:date Year="2002" Day="3" Month="10" w:st="on">Oct<span
- style='mso-spacerun:yes'>  </span>3<span style='mso-spacerun:yes'> 
+ style='mso-spacerun:yes'>Â  </span>3<span style='mso-spacerun:yes'>Â 
  </span>2002</st1:date> w32</span><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Courier New"'><o:p></o:p></span></p>
 
@@ -10203,7 +10203,7 @@ font-family:"Calibri",sans-serif;mso-bidi-font-family:"Courier New"'>tar</span><
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Times New Roman"'> extracts the files from the archive, the working directory
 contains two files whose names start with mak: make-3.80.tar and make-3.80. The
-–d (directory) option causes </span><span lang=EN-US style='font-size:11.0pt;
+Â–d (directory) option causes </span><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Courier New"'>ls</span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Times New Roman"'> to display only file and directory names, not the contents
@@ -10261,7 +10261,7 @@ to a different user. It is quicker than logging off and back on again. The
 command </span><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
 mso-bidi-font-family:"Courier New"'>su</span><span lang=EN-US style='font-size:
 11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>
-prompts us for the user’s password:<o:p></o:p></span></p>
+prompts us for the userÂ’s password:<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'><o:p>&nbsp;</o:p></span></p>
@@ -10278,10 +10278,10 @@ style='mso-bidi-font-weight:normal'><o:p></o:p></b></span></p>
 mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
-mso-bidi-font-family:"Times New Roman"'>The – option makes </span><span
+mso-bidi-font-family:"Times New Roman"'>The Â– option makes </span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Courier New"'>su</span><span lang=EN-US style='font-size:11.0pt;font-family:
-"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'> behave as if we’ve
+"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'> behave as if weÂ’ve
 logged in as that user.<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
@@ -10294,7 +10294,7 @@ mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='text-align:justify'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Times New Roman"'>Every Linux system has a user called ‘root’. The root user
+"Times New Roman"'>Every Linux system has a user called Â‘rootÂ’. The root user
 is all-powerful. It can access any &#64257;les. The root user account should
 only be used for system administration, such as installing software. When
 logged in as root, the shell prompt usually ends in #. It is usually best to
@@ -10432,14 +10432,14 @@ style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Courier New"'>chgrp</span><span lang=EN-US style='font-size:11.0pt;font-family:
 "Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'> accept a -R
-(Mnemonic: ‘recursive’) option:<o:p></o:p></span></p>
+(Mnemonic: Â‘recursiveÂ’) option:<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'><span
-style='mso-spacerun:yes'> </span># <b style='mso-bidi-font-weight:normal'>chgrp
+style='mso-spacerun:yes'>Â </span># <b style='mso-bidi-font-weight:normal'>chgrp
 -R staff shared-directory</b><o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
@@ -10450,7 +10450,7 @@ mso-bidi-font-family:"Times New Roman"'>The above command changes the group
 ownership of </span><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
 mso-bidi-font-family:"Courier New"'>shared-directory </span><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Times New Roman"'>and<span style='mso-spacerun:yes'>  </span>its contents and
+"Times New Roman"'>and<span style='mso-spacerun:yes'>Â  </span>its contents and
 its subdirectories, recursively to </span><span lang=EN-US style='font-size:
 11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:"Courier New"'>staff.
 </span><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
@@ -10462,8 +10462,8 @@ mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Times New Roman"'><span style='mso-spacerun:yes'> </span><span
-style='mso-spacerun:yes'> </span></span><span lang=EN-US style='font-size:11.0pt;
+"Times New Roman"'><span style='mso-spacerun:yes'>Â </span><span
+style='mso-spacerun:yes'>Â </span></span><span lang=EN-US style='font-size:11.0pt;
 font-family:"Courier New"'># <b>chown -R root /usr/local/share/misc/</b><o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
@@ -10590,7 +10590,7 @@ mso-bidi-font-family:"Times New Roman"'>The </span><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Courier New"'>r,w,x</span><span lang=EN-US style='font-size:11.0pt;font-family:
 "Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'><span
-style='mso-spacerun:yes'>  </span>permissions also have a meaning for
+style='mso-spacerun:yes'>Â  </span>permissions also have a meaning for
 directories:<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
@@ -10707,7 +10707,7 @@ style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Courier New"'>r,w,x</span><span lang=EN-US style='font-size:11.0pt;font-family:
 "Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'> permissions are
 speci&#64257;ed separately for the owner, for the group owner, and for everyone
-else (the ‘world’).<o:p></o:p></span></p>
+else (the Â‘worldÂ’).<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
 mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
@@ -10717,7 +10717,7 @@ mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
 <h2><a name="_Toc242071410"><span lang=EN-US>3.7 Examining Permission of a
 file: </span></a><span style='mso-bookmark:_Toc242071410'><span lang=EN-US
-style='mso-bidi-font-family:"Courier New"'>ls –l</span></span></h2>
+style='mso-bidi-font-family:"Courier New"'>ls Â–l</span></span></h2>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
 mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
@@ -10760,8 +10760,8 @@ owner and group-owner. The &#64257;rst column specify the permissions: <o:p></o:
      type: </span><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
      mso-bidi-font-family:"Courier New"'>d</span><span lang=EN-US
      style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-     "Times New Roman"'> for directories,<span style='mso-spacerun:yes'> 
-     </span>– for plain &#64257;les. <o:p></o:p></span></li>
+     "Times New Roman"'> for directories,<span style='mso-spacerun:yes'>Â 
+     </span>Â– for plain &#64257;les. <o:p></o:p></span></li>
  <li class=MsoNormal style='mso-list:l9 level1 lfo5;tab-stops:list 36.0pt'><span
      lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
      mso-bidi-font-family:"Times New Roman"'>three characters of </span><span
@@ -10769,14 +10769,14 @@ owner and group-owner. The &#64257;rst column specify the permissions: <o:p></o:
      mso-bidi-font-family:"Courier New"'>rwx</span><span lang=EN-US
      style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
      "Times New Roman"'> permissions for the owner (or a dash if the permission
-     isn’t available)<o:p></o:p></span></li>
+     isnÂ’t available)<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-list:l9 level1 lfo5;tab-stops:list 36.0pt'><span
      lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
      mso-bidi-font-family:"Times New Roman"'>three characters of </span><span
      lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
      mso-bidi-font-family:"Courier New"'>rwx</span><span lang=EN-US
      style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-     "Times New Roman"'> <span style='mso-spacerun:yes'> </span>permissions for
+     "Times New Roman"'> <span style='mso-spacerun:yes'>Â </span>permissions for
      the group owner<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-list:l9 level1 lfo5;tab-stops:list 36.0pt'><span
      lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
@@ -10822,7 +10822,7 @@ style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Courier New"'>chmod</span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Times New Roman"'> command changes the permissions of a &#64257;le or
-directory. A &#64257;le’s permissions may be changed only by its owner or by
+directory. A &#64257;leÂ’s permissions may be changed only by its owner or by
 the superuser. The command </span><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Courier New"'>chmod</span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
@@ -10855,7 +10855,7 @@ style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
      who to set permissions for: </span><span lang=EN-US style='font-size:11.0pt;
      font-family:"Calibri",sans-serif;mso-bidi-font-family:"Courier New"'>u</span><span
      lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
-     mso-bidi-font-family:"Times New Roman"'> for the &#64257;le’s owner, </span><span
+     mso-bidi-font-family:"Times New Roman"'> for the &#64257;leÂ’s owner, </span><span
      lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
      mso-bidi-font-family:"Courier New"'>g</span><span lang=EN-US
      style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
@@ -10877,7 +10877,7 @@ style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
      style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
      "Times New Roman"'> adds permissions to those already set, and </span><span
      lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
-     mso-bidi-font-family:"Courier New"'>–</span><span lang=EN-US
+     mso-bidi-font-family:"Courier New"'>Â–</span><span lang=EN-US
      style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
      "Times New Roman"'> removes permissions<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-list:l19 level1 lfo6;tab-stops:list 36.0pt'><span
@@ -10886,7 +10886,7 @@ style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
      which of the </span><span lang=EN-US style='font-size:11.0pt;font-family:
      "Calibri",sans-serif;mso-bidi-font-family:"Courier New"'>r,w,x</span><span
      lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
-     mso-bidi-font-family:"Times New Roman"'><span style='mso-spacerun:yes'> 
+     mso-bidi-font-family:"Times New Roman"'><span style='mso-spacerun:yes'>Â 
      </span>permissions to set<o:p></o:p></span></li>
 </ul>
 
@@ -10906,7 +10906,7 @@ mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='text-indent:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Times New Roman"'>$<span style='mso-spacerun:yes'>  </span></span><b
+"Times New Roman"'>$<span style='mso-spacerun:yes'>Â  </span></span><b
 style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:11.0pt;
 font-family:"Courier New"'>chmod a+x bubblesort<o:p></o:p></span></b></p>
 
@@ -10930,23 +10930,23 @@ mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='margin-left:28.8pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Times New Roman"'><span style='mso-tab-count:1'>   </span>Decimal: <span
+"Times New Roman"'><span style='mso-tab-count:1'>Â Â  </span>Decimal: <span
 style='mso-tab-count:1'> </span>664<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:28.8pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Times New Roman"'><span style='mso-tab-count:1'>   </span>Bianry:<span
-style='mso-tab-count:2'>     </span>110 110 100<span style='mso-tab-count:1'> </span><o:p></o:p></span></p>
+"Times New Roman"'><span style='mso-tab-count:1'>Â Â  </span>Bianry:<span
+style='mso-tab-count:2'>Â Â Â Â  </span>110 110 100<span style='mso-tab-count:1'> </span><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:28.8pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Times New Roman"'><span style='mso-tab-count:1'>   </span>Meaning:<span
+"Times New Roman"'><span style='mso-tab-count:1'>Â Â  </span>Meaning:<span
 style='mso-tab-count:1'> </span>rwx rwx rwx<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Times New Roman"'>Explanation:<span style='mso-spacerun:yes'>    </span>A ‘1’
-in each position specifies ‘permission’, a ‘0’ specifies ‘no permission’.<o:p></o:p></span></p>
+"Times New Roman"'>Explanation:<span style='mso-spacerun:yes'>Â Â Â  </span>A Â‘1Â’
+in each position specifies Â‘permissionÂ’, a Â‘0Â’ specifies Â‘no permissionÂ’.<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
 mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
@@ -10982,8 +10982,8 @@ mso-bidi-font-family:"Times New Roman"'>A common requirement is to change the
 permissions of a directory and its contents. The command </span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Courier New"'>chmod</span><span lang=EN-US style='font-size:11.0pt;font-family:
-"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'> accepts a –R
-(Mnemonic: ‘recursive’) option:<o:p></o:p></span></p>
+"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'> accepts a Â–R
+(Mnemonic: Â‘recursiveÂ’) option:<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'><o:p>&nbsp;</o:p></span></p>
@@ -11053,8 +11053,8 @@ font-family:"Calibri",sans-serif;mso-bidi-font-family:"Courier New"'>/tmp</span>
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Times New Roman"'> directory must be world-writable, so that anyone may create
 temporary &#64257;les within it. But that would normally mean that anyone may
-delete any &#64257;les within it — obviously a security hole. A directory may
-have ‘sticky’ permissions: Only a &#64257;le’s owner may delete it from a
+delete any &#64257;les within it Â— obviously a security hole. A directory may
+have Â‘stickyÂ’ permissions: Only a &#64257;leÂ’s owner may delete it from a
 sticky directory. Expressed with a t (mnemonic: temporary directory) in a
 listing:<o:p></o:p></span></p>
 
@@ -11073,15 +11073,15 @@ style='font-size:11.0pt;font-family:"Courier New"'>drwxrwxrwt 30 root root
 mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
-mso-bidi-font-family:"Times New Roman"'>We<span style='mso-spacerun:yes'> 
-</span>enable ‘sticky’ permission with the following command:<o:p></o:p></span></p>
+mso-bidi-font-family:"Times New Roman"'>We<span style='mso-spacerun:yes'>Â 
+</span>enable Â‘stickyÂ’ permission with the following command:<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
 mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='text-indent:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Times New Roman"'>#<span style='mso-spacerun:yes'>  </span></span><b
+"Times New Roman"'>#<span style='mso-spacerun:yes'>Â  </span></span><b
 style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:11.0pt;
 font-family:"Courier New"'>chmod +t /data/tmp</span></b><b style='mso-bidi-font-weight:
 normal'><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
@@ -11102,14 +11102,14 @@ style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Times New Roman"'>If a directory is </span><span lang=EN-US style='font-size:
 11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:"Courier New"'>setgid</span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Times New Roman"'> (‘set group-id’), &#64257;les created within it acquire the
+"Times New Roman"'> (Â‘set group-idÂ’), &#64257;les created within it acquire the
 group ownership of the directory and directories created within it acquire both
 the group ownership and </span><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Courier New"'>setgid</span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Times New Roman"'> permission. It is useful for a shared directory where all
 users working on its &#64257;les are in a given group. It is expressed with an
-s in ‘group’ position in a listing:<o:p></o:p></span></p>
+s in Â‘groupÂ’ position in a listing:<o:p></o:p></span></p>
 
 <p class=MsoNormal style='text-indent:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
@@ -11164,7 +11164,7 @@ data).<o:p></o:p></span></p>
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Times New Roman"'>As far as many parts of a Linux system are concerned, a
 partition contains entirely arbitrary data. When installing, we set things up
-so that a partition contains a &#64257;lesystem — a way of organising data into
+so that a partition contains a &#64257;lesystem Â— a way of organising data into
 &#64257;les and directories. One &#64257;lesystem is made the root
 &#64257;lesystem: the root directory on that &#64257;lesystem becomes the
 directory named /. Other &#64257;lesystems can be mounted: the root directory
@@ -11225,7 +11225,7 @@ mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
 mso-bidi-font-family:"Times New Roman"'>will mount the contents of the
-machine’s CD-ROM drive under the directory </span><span lang=EN-US
+machineÂ’s CD-ROM drive under the directory </span><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Courier New"'>/mnt/cdrom<o:p></o:p></span></p>
 
@@ -11669,28 +11669,28 @@ are:<o:p></o:p></span></p>
      lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
      mso-bidi-font-family:"Courier New"'>ext2</span><span lang=EN-US
      style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-     "Times New Roman"'> – The standard Linux &#64257;lesystem<o:p></o:p></span></li>
+     "Times New Roman"'> Â– The standard Linux &#64257;lesystem<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-list:l4 level1 lfo8;tab-stops:list 36.0pt'><span
      lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
-     mso-bidi-font-family:"Times New Roman"'>iso9660 – The &#64257;lesystem
+     mso-bidi-font-family:"Times New Roman"'>iso9660 Â– The &#64257;lesystem
      used on CD-ROMs<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-list:l4 level1 lfo8;tab-stops:list 36.0pt'><span
      lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
      mso-bidi-font-family:"Courier New"'>proc</span><span lang=EN-US
      style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-     "Times New Roman"'> – Not a real &#64257;lesystem, so uses none as the
+     "Times New Roman"'> Â– Not a real &#64257;lesystem, so uses none as the
      device. Used as a way for the kernel to report system information to user
      processes<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-list:l4 level1 lfo8;tab-stops:list 36.0pt'><span
      lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
      mso-bidi-font-family:"Courier New"'>vfa</span><span lang=EN-US
      style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-     "Times New Roman"'>t – The &#64257;lesystem used by Windows 95<o:p></o:p></span></li>
+     "Times New Roman"'>t Â– The &#64257;lesystem used by Windows 95<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-list:l4 level1 lfo8;tab-stops:list 36.0pt'><span
      lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
      mso-bidi-font-family:"Courier New"'>auto</span><span lang=EN-US
      style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-     "Times New Roman"'> – Not a real &#64257;lesystem type. Used as a way of
+     "Times New Roman"'> Â– Not a real &#64257;lesystem type. Used as a way of
      asking the mount command to probe for various &#64257;lesystem types,
      particularly for removable media<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-list:l4 level1 lfo8;tab-stops:list 36.0pt'><span
@@ -11721,7 +11721,7 @@ mso-bidi-font-family:"Courier New"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
 mso-bidi-font-family:"Times New Roman"'>There are comma-separated options in <span
-style='mso-spacerun:yes'> </span></span><span lang=EN-US style='font-size:11.0pt;
+style='mso-spacerun:yes'>Â </span></span><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Courier New"'>/etc/fstab</span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Times New Roman"'>. Alternatively, use comma-separated options with </span><span
@@ -11738,7 +11738,7 @@ lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-fon
      lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
      mso-bidi-font-family:"Courier New"'>Noauto</span><span lang=EN-US
      style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-     "Times New Roman"'> – In </span><span lang=EN-US style='font-size:11.0pt;
+     "Times New Roman"'> Â– In </span><span lang=EN-US style='font-size:11.0pt;
      font-family:"Calibri",sans-serif;mso-bidi-font-family:"Courier New"'>/etc/fstab</span><span
      lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
      mso-bidi-font-family:"Times New Roman"'>, prevents the &#64257;lesystem
@@ -11747,18 +11747,18 @@ lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-fon
      lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
      mso-bidi-font-family:"Courier New"'>ro</span><span lang=EN-US
      style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-     "Times New Roman"'> – Mount the &#64257;lesystem read-only<o:p></o:p></span></li>
+     "Times New Roman"'> Â– Mount the &#64257;lesystem read-only<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-list:l30 level1 lfo9;tab-stops:list 36.0pt'><span
      lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
      mso-bidi-font-family:"Courier New"'>users</span><span lang=EN-US
      style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-     "Times New Roman"'> – Let non-root users mount and unmount this
+     "Times New Roman"'> Â– Let non-root users mount and unmount this
      &#64257;lesystem<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-list:l30 level1 lfo9;tab-stops:list 36.0pt'><span
      lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
      mso-bidi-font-family:"Courier New"'>user</span><span lang=EN-US
      style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-     "Times New Roman"'> – Like users, but non-root users can only unmount
+     "Times New Roman"'> Â– Like users, but non-root users can only unmount
      &#64257;lesystems that they themselves mounted<o:p></o:p></span></li>
 </ul>
 
@@ -11767,7 +11767,7 @@ mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
 mso-bidi-font-family:"Times New Roman"'>Other less common mount options exist,
-as well as many options for individual &#64257;lesystem types – see mount(8).<o:p></o:p></span></p>
+as well as many options for individual &#64257;lesystem types Â– see mount(8).<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
 mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
@@ -11800,7 +11800,7 @@ the order in which automatically-mounted &#64257;lesystems are checked by </span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Courier New"'>fsck.</span><span lang=EN-US style='font-size:11.0pt;font-family:
 "Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>We use 1 for the
-root &#64257;lesystem and 0 for &#64257;lesystems that aren’t mounted at
+root &#64257;lesystem and 0 for &#64257;lesystems that arenÂ’t mounted at
 boot-up. We use 2 for other &#64257;lesystems.<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
@@ -12262,23 +12262,23 @@ press return for the default<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:21.6pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'><span
-style='mso-spacerun:yes'>  </span>Full Name []: Newbie Dewbie<o:p></o:p></span></p>
+style='mso-spacerun:yes'>Â  </span>Full Name []: Newbie Dewbie<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:21.6pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'><span
-style='mso-spacerun:yes'>  </span>Room Number []:<o:p></o:p></span></p>
+style='mso-spacerun:yes'>Â  </span>Room Number []:<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:21.6pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'><span
-style='mso-spacerun:yes'>  </span>Work Phone []:<o:p></o:p></span></p>
+style='mso-spacerun:yes'>Â  </span>Work Phone []:<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:21.6pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'><span
-style='mso-spacerun:yes'>  </span>Home Phone []:<o:p></o:p></span></p>
+style='mso-spacerun:yes'>Â  </span>Home Phone []:<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:21.6pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'><span
-style='mso-spacerun:yes'>  </span>Other []:<o:p></o:p></span></p>
+style='mso-spacerun:yes'>Â  </span>Other []:<o:p></o:p></span></p>
 
 <p class=MsoNormal style='text-indent:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'>Is the information correct?
@@ -12309,7 +12309,7 @@ or other information. <o:p></o:p></span></p>
 mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
 <h2><a name="_Toc242071420"><span lang=EN-US>5.3 Changing <span
-style='mso-spacerun:yes'> </span>a User’s name: </span></a><span
+style='mso-spacerun:yes'>Â </span>a UserÂ’s name: </span></a><span
 style='mso-bookmark:_Toc242071420'><span lang=EN-US style='mso-bidi-font-family:
 "Courier New"'>chfn</span></span></h2>
 
@@ -12327,12 +12327,12 @@ lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-fon
 mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
-mso-bidi-font-family:"Times New Roman"'><span style='mso-tab-count:4'>            </span><span
-style='mso-tab-count:1'>   </span>#<span style='mso-spacerun:yes'>  </span></span><b
+mso-bidi-font-family:"Times New Roman"'><span style='mso-tab-count:4'>Â Â Â Â Â Â Â Â Â Â Â  </span><span
+style='mso-tab-count:1'>Â Â  </span>#<span style='mso-spacerun:yes'>Â  </span></span><b
 style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:11.0pt;
 font-family:"Courier New"'>chfn -f</span></b><span lang=EN-US style='font-size:
-11.0pt;font-family:"Courier New"'> <span style='mso-spacerun:yes'> </span><span
-style='mso-spacerun:yes'> </span><b style='mso-bidi-font-weight:normal'>name
+11.0pt;font-family:"Courier New"'> <span style='mso-spacerun:yes'>Â </span><span
+style='mso-spacerun:yes'>Â </span><b style='mso-bidi-font-weight:normal'>name
 userid</b></span><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
 mso-bidi-font-family:"Times New Roman"'><o:p></o:p></span></p>
 
@@ -12367,7 +12367,7 @@ mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
 <h2><a name="_Toc240908222"></a><a name="_Toc242071421"><span style='mso-bookmark:
-_Toc240908222'><span lang=EN-US>5.4 Changing a User Account’s Password: </span></span></a><span
+_Toc240908222'><span lang=EN-US>5.4 Changing a User AccountÂ’s Password: </span></span></a><span
 style='mso-bookmark:_Toc242071421'><span style='mso-bookmark:_Toc240908222'><span
 lang=EN-US style='mso-bidi-font-family:"Courier New"'>passwd</span></span></span><span
 lang=EN-US style='mso-bidi-font-family:"Courier New"'><o:p></o:p></span></h2>
@@ -12544,7 +12544,7 @@ command:<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Times New Roman"'><span style='mso-tab-count:1'>   </span></span><span
+"Times New Roman"'><span style='mso-tab-count:1'>Â Â  </span></span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Courier New"'># <b
 style='mso-bidi-font-weight:normal'>groupadd <em><span style='font-family:"Courier New";
 font-style:normal;mso-bidi-font-style:italic'>group</span></em></b><i
@@ -12576,7 +12576,7 @@ lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-fon
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Times New Roman"'><span style='mso-tab-count:1'>   </span></span><span
+"Times New Roman"'><span style='mso-tab-count:1'>Â Â  </span></span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Courier New"'># <b
 style='mso-bidi-font-weight:normal'>groupadd newbies<o:p></o:p></b></span></p>
 
@@ -12597,7 +12597,7 @@ command:<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Times New Roman"'><span style='mso-tab-count:1'>   </span></span><span
+"Times New Roman"'><span style='mso-tab-count:1'>Â Â  </span></span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Courier New"'># <b
 style='mso-bidi-font-weight:normal'>groupdel <em><span style='font-family:"Courier New";
 font-style:normal;mso-bidi-font-style:italic'>group</span></em></b><o:p></o:p></span></p>
@@ -12617,7 +12617,7 @@ the following command:<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Times New Roman"'><span style='mso-tab-count:1'>   </span></span><span
+"Times New Roman"'><span style='mso-tab-count:1'>Â Â  </span></span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Courier New"'># <b
 style='mso-bidi-font-weight:normal'>groupdel newbies</b><o:p></o:p></span></p>
 
@@ -12642,7 +12642,7 @@ mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Times New Roman"'><span style='mso-spacerun:yes'>   </span></span><span
+"Times New Roman"'><span style='mso-spacerun:yes'>Â Â  </span></span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Courier New"'># <b
 style='mso-bidi-font-weight:normal'>adduser user group</b><o:p></o:p></span></p>
 
@@ -12666,7 +12666,7 @@ mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Times New Roman"'><span style='mso-spacerun:yes'>  </span></span><span
+"Times New Roman"'><span style='mso-spacerun:yes'>Â  </span></span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Courier New"'># <b
 style='mso-bidi-font-weight:normal'>adduser newbie01 newbies</b><o:p></o:p></span></p>
 
@@ -12725,29 +12725,29 @@ mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
      lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
      mso-bidi-font-family:"Courier New"'>Group name </span><span lang=EN-US
      style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-     "Times New Roman"'><span style='mso-spacerun:yes'> </span>:<span
-     style='mso-spacerun:yes'>  </span><span style='mso-spacerun:yes'> </span>The
+     "Times New Roman"'><span style='mso-spacerun:yes'>Â </span>:<span
+     style='mso-spacerun:yes'>Â  </span><span style='mso-spacerun:yes'>Â </span>The
      name of the group.<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-list:l32 level1 lfo14;tab-stops:list 36.0pt'><span
      lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
      mso-bidi-font-family:"Courier New"'>Password </span><span lang=EN-US
      style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-     "Times New Roman"'>: <span style='mso-spacerun:yes'> </span>The encrypted
+     "Times New Roman"'>: <span style='mso-spacerun:yes'>Â </span>The encrypted
      password associated with the group. This field is not generally used,
      containing an x instead.<o:p></o:p></span></li>
  <li class=MsoNormal style='mso-list:l32 level1 lfo14;tab-stops:list 36.0pt'><span
      lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
      mso-bidi-font-family:"Courier New"'>Group ID </span><span lang=EN-US
      style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-     "Times New Roman"'><span style='mso-spacerun:yes'> </span>: <span
-     style='mso-spacerun:yes'> </span>The unique numeric ID associated with the
+     "Times New Roman"'><span style='mso-spacerun:yes'>Â </span>: <span
+     style='mso-spacerun:yes'>Â </span>The unique numeric ID associated with the
      group. <o:p></o:p></span></li>
  <li class=MsoNormal style='mso-list:l32 level1 lfo14;tab-stops:list 36.0pt'><span
      lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
      mso-bidi-font-family:"Courier New"'>Member list </span><span lang=EN-US
      style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-     "Times New Roman"'><span style='mso-spacerun:yes'> </span>: <span
-     style='mso-spacerun:yes'> </span>A list of user accounts, with a comma (,)
+     "Times New Roman"'><span style='mso-spacerun:yes'>Â </span>: <span
+     style='mso-spacerun:yes'>Â </span>A list of user accounts, with a comma (,)
      separating each user account from the next. <o:p></o:p></span></li>
 </ul>
 
@@ -12844,7 +12844,7 @@ _Toc240908229'><span lang=EN-US style='mso-bidi-font-size:11.0pt'>Chapter 6: </s
 lang=EN-US>Samba File Server</span></span></a></h1>
 
 <h1><!--[if supportFields]><span lang=EN-US><span style='mso-element:field-begin'></span><span
-style='mso-spacerun:yes'> </span>XE &quot;Samba File Server&quot; </span><![endif]--><!--[if supportFields]><span
+style='mso-spacerun:yes'>Â </span>XE &quot;Samba File Server&quot; </span><![endif]--><!--[if supportFields]><span
 lang=EN-US><span style='mso-element:field-end'></span></span><![endif]--><span
 lang=EN-US style='mso-bidi-font-size:11.0pt'><o:p></o:p></span></h1>
 
@@ -12859,7 +12859,7 @@ clients. <o:p></o:p></span></p>
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Times New Roman"'>The server will be configured to share files with any client
 on the network without prompting for a password.<span
-style='mso-spacerun:yes'>   </span><o:p></o:p></span></p>
+style='mso-spacerun:yes'>Â Â  </span><o:p></o:p></span></p>
 
 <h2><a name="_Toc240908230"></a><a name="_Toc242071429"><span style='mso-bookmark:
 _Toc240908230'><span lang=EN-US>6.1 Installation</span></span></a></h2>
@@ -12871,7 +12871,7 @@ a terminal prompt enter: <o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><b><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New"'><span
-style='mso-spacerun:yes'> </span></span></b><span lang=EN-US style='font-size:
+style='mso-spacerun:yes'>Â </span></span></b><span lang=EN-US style='font-size:
 11.0pt;font-family:"Courier New"'>$<b> sudo apt-get install samba</b><o:p></o:p></span></p>
 
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
@@ -12904,15 +12904,15 @@ lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-fon
 
 <p class=MsoNormal style='margin-left:18.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
 lang=EN-US style='font-size:11.0pt;font-family:"Courier New"'><span
-style='mso-spacerun:yes'>   </span>workgroup = EXAMPLE<o:p></o:p></span></p>
+style='mso-spacerun:yes'>Â Â  </span>workgroup = EXAMPLE<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:18.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
 lang=EN-US style='font-size:11.0pt;font-family:"Courier New"'><span
-style='mso-spacerun:yes'>   </span>...<o:p></o:p></span></p>
+style='mso-spacerun:yes'>Â Â  </span>...<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:18.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
 lang=EN-US style='font-size:11.0pt;font-family:"Courier New"'><span
-style='mso-spacerun:yes'>   </span>security = user<o:p></o:p></span></p>
+style='mso-spacerun:yes'>Â Â  </span>security = user<o:p></o:p></span></p>
 
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
@@ -12933,28 +12933,28 @@ lang=EN-US style='font-size:11.0pt;font-family:"Courier New"'>[share]<o:p></o:p>
 
 <p class=MsoNormal style='margin-left:18.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
 lang=EN-US style='font-size:11.0pt;font-family:"Courier New"'><span
-style='mso-spacerun:yes'>    </span>comment = Ubuntu File Server Share<o:p></o:p></span></p>
+style='mso-spacerun:yes'>Â Â Â  </span>comment = Ubuntu File Server Share<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:18.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
 lang=EN-US style='font-size:11.0pt;font-family:"Courier New"'><span
-style='mso-spacerun:yes'> </span><span style='mso-spacerun:yes'>   </span>path
+style='mso-spacerun:yes'>Â </span><span style='mso-spacerun:yes'>Â Â  </span>path
 = /srv/samba/share<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:18.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
 lang=EN-US style='font-size:11.0pt;font-family:"Courier New"'><span
-style='mso-spacerun:yes'>    </span>browsable = yes<o:p></o:p></span></p>
+style='mso-spacerun:yes'>Â Â Â  </span>browsable = yes<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:18.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
 lang=EN-US style='font-size:11.0pt;font-family:"Courier New"'><span
-style='mso-spacerun:yes'>    </span>guest ok = yes<o:p></o:p></span></p>
+style='mso-spacerun:yes'>Â Â Â  </span>guest ok = yes<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:18.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
 lang=EN-US style='font-size:11.0pt;font-family:"Courier New"'><span
-style='mso-spacerun:yes'>    </span>read only = no<o:p></o:p></span></p>
+style='mso-spacerun:yes'>Â Â Â  </span>read only = no<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:18.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
 lang=EN-US style='font-size:11.0pt;font-family:"Courier New"'><span
-style='mso-spacerun:yes'>    </span>create mask = 0755<o:p></o:p></span></p>
+style='mso-spacerun:yes'>Â Â Â  </span>create mask = 0755<o:p></o:p></span></p>
 
 <ol start=1 type=1>
  <ul type=disc>
@@ -13057,7 +13057,7 @@ lang=EN-US style='font-size:11.0pt;font-family:"Courier New"'>$<b> sudo
 <p class=MsoNormal style='margin-left:18.0pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Times New Roman"'>Once again, the above configuration gives all access to any
-client on the local network.<span style='mso-spacerun:yes'>   </span></span><b><span
+client on the local network.<span style='mso-spacerun:yes'>Â Â  </span></span><b><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Courier New"'><o:p></o:p></span></b></p>
 
@@ -13113,7 +13113,7 @@ way to implement share-level: <o:p></o:p></span></p>
 l16 level1 lfo18;tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US
 style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
-style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><em><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>security
 = user:</span></em><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
@@ -13127,32 +13127,32 @@ will sync system users and passwords with the Samba user database. <o:p></o:p></
 l16 level1 lfo18;tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US
 style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
-style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><em><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>security
 = domain:</span></em><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
 mso-bidi-font-family:"Times New Roman"'> this mode allows the Samba server to
 appear to Windows clients as a Primary Domain Controller (PDC), Backup Domain
 Controller (BDC), or a Domain Member Server (DMS).<span
-style='mso-spacerun:yes'>  </span><o:p></o:p></span></p>
+style='mso-spacerun:yes'>Â  </span><o:p></o:p></span></p>
 
 <p style='margin-left:36.0pt;text-align:justify;text-indent:-18.0pt;mso-list:
 l16 level1 lfo18;tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US
 style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
-style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><em><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>security
 = ADS:</span></em><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
 mso-bidi-font-family:"Times New Roman"'> allows the Samba server to join an
-Active Directory domain as a native member.<span style='mso-spacerun:yes'> 
+Active Directory domain as a native member.<span style='mso-spacerun:yes'>Â 
 </span><o:p></o:p></span></p>
 
 <p style='margin-left:36.0pt;text-align:justify;text-indent:-18.0pt;mso-list:
 l16 level1 lfo18;tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US
 style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
-style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><em><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>security
 = server:</span></em><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
@@ -13163,7 +13163,7 @@ be used. See the Server Security section of the Samba guide for more details. <o
 <p style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l16 level1 lfo18;
 tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 10.0pt;mso-bidi-font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:
-Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>Â·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><em><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>security
@@ -13179,7 +13179,7 @@ depend on your environment and what you need the Samba server to accomplish. <o:
 style='font-size:11.0pt;font-family:"Arial",sans-serif'>Security = User</span></b></a><b><span
 lang=EN-US style='font-size:11.0pt;font-family:"Arial",sans-serif'><o:p></o:p></span></b></p>
 
-<p class=MsoNormal><span lang=EN-US><span style='mso-spacerun:yes'> </span></span></p>
+<p class=MsoNormal><span lang=EN-US><span style='mso-spacerun:yes'>Â </span></span></p>
 
 <p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
 
@@ -13213,7 +13213,7 @@ style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 mso-bidi-font-family:"Times New Roman"'>[share]</span></em> section change: <o:p></o:p></span></p>
 
 <pre><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
-mso-bidi-font-family:"Courier New"'><span style='mso-spacerun:yes'>    </span>guest ok = no<o:p></o:p></span></pre>
+mso-bidi-font-family:"Courier New"'><span style='mso-spacerun:yes'>Â Â Â  </span>guest ok = no<o:p></o:p></span></pre>
 
 <p><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
 mso-bidi-font-family:"Times New Roman"'>Finally, restart Samba for the new
@@ -13231,7 +13231,7 @@ directories or printers you should be prompted for a username and password. <o:p
 
 <p class=MsoNormal><a name="_Toc240908235"><span lang=EN-US style='font-family:
 "Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>If you choose to
-map a network drive to the share you can check the “Reconnect at Logon” check
+map a network drive to the share you can check the Â“Reconnect at LogonÂ” check
 box, which will require you to only enter the username and password once, at
 least until the password changes.<o:p></o:p></span></a></p>
 
@@ -13319,8 +13319,8 @@ style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 style='font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>[share]</span></em>
 entry: <o:p></o:p></span></p>
 
-<pre style='margin-left:28.8pt'><span lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>   </span>read list = @qa<o:p></o:p></span></pre><pre
-style='margin-left:28.8pt'><span lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>   </span>write list = @sysadmin, vincent</span><span
+<pre style='margin-left:28.8pt'><span lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>Â Â  </span>read list = @qa<o:p></o:p></span></pre><pre
+style='margin-left:28.8pt'><span lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>Â Â  </span>write list = @sysadmin, vincent</span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Courier New"'><o:p></o:p></span></pre>
 
@@ -13344,8 +13344,8 @@ style='font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>
 entry: <o:p></o:p></span></p>
 
 <pre><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
-mso-bidi-font-family:"Courier New"'><span style='mso-spacerun:yes'>    </span><span
-style='mso-tab-count:1'>               </span></span><span lang=EN-US
+mso-bidi-font-family:"Courier New"'><span style='mso-spacerun:yes'>Â Â Â  </span><span
+style='mso-tab-count:1'>Â Â Â Â Â Â Â Â Â Â Â Â Â Â  </span></span><span lang=EN-US
 style='font-size:11.0pt'>admin users = melissa<o:p></o:p></span></pre>
 
 <p><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
@@ -13384,7 +13384,7 @@ lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-fon
 "Times New Roman"'> adding the <em><span style='font-family:"Calibri",sans-serif;
 mso-bidi-font-family:"Times New Roman"'>acl</span></em> option: <o:p></o:p></span></p>
 
-<pre><span lang=EN-US style='font-size:11.0pt'>UUID=66bcdd2e-8861-4fb0-b7e4-e61c569fe17d /srv<span style='mso-spacerun:yes'>  </span>ext3<span style='mso-spacerun:yes'>    </span>noatime,relatime,acl 0<span style='mso-spacerun:yes'>       </span>1<o:p></o:p></span></pre>
+<pre><span lang=EN-US style='font-size:11.0pt'>UUID=66bcdd2e-8861-4fb0-b7e4-e61c569fe17d /srv<span style='mso-spacerun:yes'>Â  </span>ext3<span style='mso-spacerun:yes'>Â Â Â  </span>noatime,relatime,acl 0<span style='mso-spacerun:yes'>Â Â Â Â Â Â  </span>1<o:p></o:p></span></pre>
 
 <p><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
 mso-bidi-font-family:"Times New Roman"'>Then remount the partition: <o:p></o:p></span></p>
@@ -13511,8 +13511,8 @@ lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-fon
 mso-bidi-font-family:"Times New Roman"'>[share]</span></em> from the file
 server example: <o:p></o:p></span></p>
 
-<pre><span lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>  </span>/srv/samba/share/ r,<o:p></o:p></span></pre><pre><span
-lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>  </span>/srv/samba/share/** rwkix,<o:p></o:p></span></pre>
+<pre><span lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>Â  </span>/srv/samba/share/ r,<o:p></o:p></span></pre><pre><span
+lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>Â  </span>/srv/samba/share/** rwkix,<o:p></o:p></span></pre>
 
 <p><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
 mso-bidi-font-family:"Times New Roman"'>Now place the profile into <em><span
@@ -13557,7 +13557,7 @@ mso-bidi-language:AR-SA'><br clear=all style='page-break-before:always'>
 _Toc240908238'><span lang=EN-US>Chapter 7: Network File System (NFS)</span></span></a></h1>
 
 <h1><!--[if supportFields]><span lang=EN-US><span style='mso-element:field-begin'></span><span
-style='mso-spacerun:yes'> </span>XE &quot;Network File System (NFS)&quot; </span><![endif]--><!--[if supportFields]><span
+style='mso-spacerun:yes'>Â </span>XE &quot;Network File System (NFS)&quot; </span><![endif]--><!--[if supportFields]><span
 lang=EN-US><span style='mso-element:field-end'></span></span><![endif]--></h1>
 
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
@@ -13630,11 +13630,11 @@ style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 
 <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
 lang=EN-US style='font-size:11.0pt;font-family:"Courier New"'>/ubuntu<span
-style='mso-spacerun:yes'>  </span>*(ro,sync,no_root_squash)<o:p></o:p></span></p>
+style='mso-spacerun:yes'>Â  </span>*(ro,sync,no_root_squash)<o:p></o:p></span></p>
 
 <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
 lang=EN-US style='font-size:11.0pt;font-family:"Courier New"'>/home<span
-style='mso-spacerun:yes'>    </span>*(rw,sync,no_root_squash)<o:p></o:p></span></p>
+style='mso-spacerun:yes'>Â Â Â  </span>*(rw,sync,no_root_squash)<o:p></o:p></span></p>
 
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
 text-align:justify'><span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
@@ -13717,7 +13717,7 @@ install nfs-common</b><o:p></o:p></span></p>
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
 mso-outline-level:3'><b><span lang=EN-US style='font-size:11.0pt;font-family:
 "Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'><span
-style='mso-spacerun:yes'> </span><o:p></o:p></span></b></p>
+style='mso-spacerun:yes'>Â </span><o:p></o:p></span></b></p>
 
 <span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
 mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
@@ -13732,7 +13732,7 @@ mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 _Toc240908242'><span lang=EN-US>Chapter 8: FTP Server</span></span></a></h1>
 
 <h1><!--[if supportFields]><span lang=EN-US><span style='mso-element:field-begin'></span><span
-style='mso-spacerun:yes'> </span>XE &quot;FTP Server&quot; </span><![endif]--><!--[if supportFields]><span
+style='mso-spacerun:yes'>Â </span>XE &quot;FTP Server&quot; </span><![endif]--><!--[if supportFields]><span
 lang=EN-US><span style='mso-element:field-end'></span></span><![endif]--></h1>
 
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
@@ -13868,7 +13868,7 @@ lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-fon
 
 <p class=MsoNormal style='margin-left:36.0pt'><b><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Courier New"'><span style='mso-tab-count:1'>   </span></span></b><span
+"Courier New"'><span style='mso-tab-count:1'>Â Â  </span></span></b><span
 lang=EN-US style='font-size:11.0pt;font-family:"Courier New"'>$<b> sudo
 /etc/init.d/vsftpd restart</b><o:p></o:p></span></p>
 
@@ -13989,7 +13989,7 @@ text-align:justify'><span lang=EN-US style='font-size:11.0pt;font-family:"Calibr
 mso-bidi-font-family:"Times New Roman"'>By default these options are set the
 the certificate and key provided by the <b>ssl-cert</b> package. In a
 production environment these should be replaced with a certificate and key
-generated for the specific host.<span style='mso-spacerun:yes'>  </span><o:p></o:p></span></p>
+generated for the specific host.<span style='mso-spacerun:yes'>Â  </span><o:p></o:p></span></p>
 
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
@@ -14069,8 +14069,8 @@ lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-fon
 
 <p class=MsoNormal style='margin-left:4.6pt;text-indent:45.8pt;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
 lang=EN-US style='font-size:11.0pt;font-family:"Courier New"'>auth<span
-style='mso-spacerun:yes'>    </span>required<span
-style='mso-spacerun:yes'>        </span>pam_shells.so<o:p></o:p></span></p>
+style='mso-spacerun:yes'>Â Â Â  </span>required<span
+style='mso-spacerun:yes'>Â Â Â Â Â Â Â  </span>pam_shells.so<o:p></o:p></span></p>
 
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
@@ -14339,7 +14339,7 @@ netbios-name-servers 192.168.1.1; <o:p></o:p></span></p>
 
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Times New Roman"'><span style='mso-spacerun:yes'>  </span><o:p></o:p></span></p>
+"Times New Roman"'><span style='mso-spacerun:yes'>Â  </span><o:p></o:p></span></p>
 
 <span lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;
 mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
@@ -14354,7 +14354,7 @@ mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 _Toc240908250'><span lang=EN-US>Chapter 10: Squid - Proxy Server</span></span></a></h1>
 
 <h1><!--[if supportFields]><span lang=EN-US><span style='mso-element:field-begin'></span><span
-style='mso-spacerun:yes'> </span>XE &quot;Squid - Proxy Server&quot; </span><![endif]--><!--[if supportFields]><span
+style='mso-spacerun:yes'>Â </span>XE &quot;Squid - Proxy Server&quot; </span><![endif]--><!--[if supportFields]><span
 lang=EN-US><span style='mso-element:field-end'></span></span><![endif]--></h1>
 
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
@@ -14454,7 +14454,7 @@ style='font-size:11.0pt;font-family:"Courier New"'>$<b> sudo chmod a-w
 tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><![if !supportLists]><span
 lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
-style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Courier New"'>http_port
 8888<o:p></o:p></span></p>
@@ -14473,7 +14473,7 @@ font-family:"Calibri",sans-serif;mso-bidi-font-family:"Courier New"'>http_port
 tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><![if !supportLists]><span
 lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
-style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Courier New"'>visible_hostname
 weezie<o:p></o:p></span></p>
@@ -14629,7 +14629,7 @@ master, and a as a secondary master. <o:p></o:p></span></p>
 <p style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l33 level1 lfo24;
 tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 10.0pt;mso-bidi-font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:
-Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>Â·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>When
@@ -14639,7 +14639,7 @@ and remember the answer when the domain is queried again. <o:p></o:p></span></p>
 <p style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l33 level1 lfo24;
 tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 10.0pt;mso-bidi-font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:
-Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>Â·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>As a
@@ -14649,7 +14649,7 @@ and is authoritative for that zone. <o:p></o:p></span></p>
 <p style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l33 level1 lfo24;
 tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 10.0pt;mso-bidi-font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:
-Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>Â·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>In a
@@ -14722,9 +14722,9 @@ lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-fon
 "Times New Roman"'>: <o:p></o:p></span></p>
 
 <pre style='margin-left:50.4pt'><span lang=EN-US style='font-size:11.0pt'>forwarders {<o:p></o:p></span></pre><pre
-style='margin-left:50.4pt'><span lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>                </span>1.2.3.4;<o:p></o:p></span></pre><pre
-style='margin-left:50.4pt'><span lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>                </span>5.6.7.8;<o:p></o:p></span></pre><pre
-style='margin-left:50.4pt'><span lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>           </span>};<o:p></o:p></span></pre><pre><span
+style='margin-left:50.4pt'><span lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  </span>1.2.3.4;<o:p></o:p></span></pre><pre
+style='margin-left:50.4pt'><span lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  </span>5.6.7.8;<o:p></o:p></span></pre><pre
+style='margin-left:50.4pt'><span lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â  </span>};<o:p></o:p></span></pre><pre><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Courier New"'>Replace <em><span style='font-family:"Calibri",sans-serif;
 mso-bidi-font-family:"Courier New"'>1.2.3.4</span></em> and <em><span
@@ -14765,8 +14765,8 @@ style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 
 <pre style='margin-left:45.8pt'><span lang=EN-US style='font-size:11.0pt'>zone &quot;example.com&quot; {<o:p></o:p></span></pre><pre
 style='margin-left:45.8pt'><span lang=EN-US style='font-size:11.0pt'><span
-style='mso-tab-count:1'>       </span>type master;<o:p></o:p></span></pre><pre
-style='margin-left:45.8pt'><span lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>        </span>file &quot;/etc/bind/db.example.com&quot;;<o:p></o:p></span></pre><pre
+style='mso-tab-count:1'>Â Â Â Â Â Â  </span>type master;<o:p></o:p></span></pre><pre
+style='margin-left:45.8pt'><span lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â  </span>file &quot;/etc/bind/db.example.com&quot;;<o:p></o:p></span></pre><pre
 style='margin-left:45.8pt'><span lang=EN-US style='font-size:11.0pt'>};</span><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Courier New"'><o:p></o:p></span></pre>
@@ -14779,7 +14779,7 @@ lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-fon
 "Times New Roman"'> file: <o:p></o:p></span></p>
 
 <pre><strong><span lang=EN-US style='font-size:11.0pt;font-family:"Courier New"'><span
-style='mso-tab-count:1'>       </span></span></strong><strong><span lang=EN-US
+style='mso-tab-count:1'>Â Â Â Â Â Â  </span></span></strong><strong><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New";font-weight:normal'>$</span></strong><strong><span
 lang=EN-US style='font-size:11.0pt;font-family:"Courier New"'> sudo cp /etc/bind/db.local /etc/bind/db.example.com</span></strong><span
 lang=EN-US style='font-size:11.0pt'><o:p></o:p></span></pre>
@@ -14807,18 +14807,18 @@ server in this example: <o:p></o:p></span></p>
 <pre><span lang=EN-US style='font-size:11.0pt'>;<o:p></o:p></span></pre><pre><span
 lang=EN-US style='font-size:11.0pt'>; BIND data file for local loopback interface<o:p></o:p></span></pre><pre><span
 lang=EN-US style='font-size:11.0pt'>;<o:p></o:p></span></pre><pre><span
-lang=EN-US style='font-size:11.0pt'>$TTL<span style='mso-spacerun:yes'>    </span>604800<o:p></o:p></span></pre><pre><span
-lang=EN-US style='font-size:11.0pt'>@<span style='mso-spacerun:yes'>       </span>IN<span style='mso-spacerun:yes'>      </span>SOA<span style='mso-spacerun:yes'>     </span>ns.example.com. root.example.com. (<o:p></o:p></span></pre><pre><span
-lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>             </span><span style='mso-spacerun:yes'>                 </span>2<span style='mso-spacerun:yes'>         </span>; Serial<o:p></o:p></span></pre><pre><span
-lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>                         </span>604800<span style='mso-spacerun:yes'>         </span>; Refresh<o:p></o:p></span></pre><pre><span
-lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>                          </span>86400<span style='mso-spacerun:yes'>         </span>; Retry<o:p></o:p></span></pre><pre><span
-lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>                        </span>2419200<span style='mso-spacerun:yes'>         </span>; Expire<o:p></o:p></span></pre><pre><span
-lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>                         </span>604800 )<span style='mso-spacerun:yes'>       </span>; Negative Cache TTL<o:p></o:p></span></pre><pre><span
+lang=EN-US style='font-size:11.0pt'>$TTL<span style='mso-spacerun:yes'>Â Â Â  </span>604800<o:p></o:p></span></pre><pre><span
+lang=EN-US style='font-size:11.0pt'>@<span style='mso-spacerun:yes'>Â Â Â Â Â Â  </span>IN<span style='mso-spacerun:yes'>Â Â Â Â Â  </span>SOA<span style='mso-spacerun:yes'>Â Â Â Â  </span>ns.example.com. root.example.com. (<o:p></o:p></span></pre><pre><span
+lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â Â  </span><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â </span>2<span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â  </span>; Serial<o:p></o:p></span></pre><pre><span
+lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  </span>604800<span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â  </span>; Refresh<o:p></o:p></span></pre><pre><span
+lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  </span>86400<span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â  </span>; Retry<o:p></o:p></span></pre><pre><span
+lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  </span>2419200<span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â  </span>; Expire<o:p></o:p></span></pre><pre><span
+lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  </span>604800 )<span style='mso-spacerun:yes'>Â Â Â Â Â Â  </span>; Negative Cache TTL<o:p></o:p></span></pre><pre><span
 lang=EN-US style='font-size:11.0pt'>;<o:p></o:p></span></pre><pre><span
-lang=EN-US style='font-size:11.0pt'>@<span style='mso-spacerun:yes'>       </span>IN<span style='mso-spacerun:yes'>      </span>NS<span style='mso-spacerun:yes'>      </span>ns.example.com.<o:p></o:p></span></pre><pre><span
-lang=EN-US style='font-size:11.0pt'>@<span style='mso-spacerun:yes'>       </span>IN<span style='mso-spacerun:yes'>      </span>A<span style='mso-spacerun:yes'>       </span>127.0.0.1<o:p></o:p></span></pre><pre><span
-lang=EN-US style='font-size:11.0pt'>@<span style='mso-spacerun:yes'>       </span>IN<span style='mso-spacerun:yes'>      </span>AAAA<span style='mso-spacerun:yes'>    </span>::1<o:p></o:p></span></pre><pre><span
-lang=EN-US style='font-size:11.0pt'>ns<span style='mso-spacerun:yes'>      </span>IN<span style='mso-spacerun:yes'>      </span>A<span style='mso-spacerun:yes'>       </span>192.168.1.10<o:p></o:p></span></pre>
+lang=EN-US style='font-size:11.0pt'>@<span style='mso-spacerun:yes'>Â Â Â Â Â Â  </span>IN<span style='mso-spacerun:yes'>Â Â Â Â Â  </span>NS<span style='mso-spacerun:yes'>Â Â Â Â Â  </span>ns.example.com.<o:p></o:p></span></pre><pre><span
+lang=EN-US style='font-size:11.0pt'>@<span style='mso-spacerun:yes'>Â Â Â Â Â Â  </span>IN<span style='mso-spacerun:yes'>Â Â Â Â Â  </span>A<span style='mso-spacerun:yes'>Â Â Â Â Â Â  </span>127.0.0.1<o:p></o:p></span></pre><pre><span
+lang=EN-US style='font-size:11.0pt'>@<span style='mso-spacerun:yes'>Â Â Â Â Â Â  </span>IN<span style='mso-spacerun:yes'>Â Â Â Â Â  </span>AAAA<span style='mso-spacerun:yes'>Â Â Â  </span>::1<o:p></o:p></span></pre><pre><span
+lang=EN-US style='font-size:11.0pt'>ns<span style='mso-spacerun:yes'>Â Â Â Â Â  </span>IN<span style='mso-spacerun:yes'>Â Â Â Â Â  </span>A<span style='mso-spacerun:yes'>Â Â Â Â Â Â  </span>192.168.1.10<o:p></o:p></span></pre>
 
 <p style='text-align:justify'><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>You
@@ -14868,9 +14868,9 @@ mso-bidi-font-family:"Times New Roman"'>Edit /etc/bind/named.conf.local and add
 the following: <o:p></o:p></span></p>
 
 <pre style='margin-left:43.2pt'><span lang=EN-US style='font-size:11.0pt'>zone &quot;1.168.192.in-addr.arpa&quot; {<o:p></o:p></span></pre><pre
-style='margin-left:43.2pt'><span lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>        </span>type master;<o:p></o:p></span></pre><pre
-style='margin-left:43.2pt'><span lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>        </span>notify no;<o:p></o:p></span></pre><pre
-style='margin-left:43.2pt'><span lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>        </span>file &quot;/etc/bind/db.192&quot;;<o:p></o:p></span></pre><pre
+style='margin-left:43.2pt'><span lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â  </span>type master;<o:p></o:p></span></pre><pre
+style='margin-left:43.2pt'><span lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â  </span>notify no;<o:p></o:p></span></pre><pre
+style='margin-left:43.2pt'><span lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â  </span>file &quot;/etc/bind/db.192&quot;;<o:p></o:p></span></pre><pre
 style='margin-left:43.2pt'><span lang=EN-US style='font-size:11.0pt'>};<o:p></o:p></span></pre><pre><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Courier New"'><o:p>&nbsp;</o:p></span></pre><pre style='text-align:justify'><span
@@ -14910,16 +14910,16 @@ style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 <pre><span lang=EN-US style='font-size:11.0pt'>;<o:p></o:p></span></pre><pre><span
 lang=EN-US style='font-size:11.0pt'>; BIND reverse data file for local loopback interface<o:p></o:p></span></pre><pre><span
 lang=EN-US style='font-size:11.0pt'>;<o:p></o:p></span></pre><pre><span
-lang=EN-US style='font-size:11.0pt'>$TTL<span style='mso-spacerun:yes'>    </span>604800<o:p></o:p></span></pre><pre><span
-lang=EN-US style='font-size:11.0pt'>@<span style='mso-spacerun:yes'>       </span>IN<span style='mso-spacerun:yes'>      </span>SOA<span style='mso-spacerun:yes'>     </span>ns.example.com. root.example.com. (<o:p></o:p></span></pre><pre><span
-lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>                              </span>2<span style='mso-spacerun:yes'>         </span>; Serial<o:p></o:p></span></pre><pre><span
-lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>                         </span>604800<span style='mso-spacerun:yes'>         </span>; Refresh<o:p></o:p></span></pre><pre><span
-lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>                          </span>86400<span style='mso-spacerun:yes'>         </span>; Retry<o:p></o:p></span></pre><pre><span
-lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>                        </span>2419200<span style='mso-spacerun:yes'>         </span>; Expire<o:p></o:p></span></pre><pre><span
-lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>                         </span>604800 )<span style='mso-spacerun:yes'>       </span>; Negative Cache TTL<o:p></o:p></span></pre><pre><span
+lang=EN-US style='font-size:11.0pt'>$TTL<span style='mso-spacerun:yes'>Â Â Â  </span>604800<o:p></o:p></span></pre><pre><span
+lang=EN-US style='font-size:11.0pt'>@<span style='mso-spacerun:yes'>Â Â Â Â Â Â  </span>IN<span style='mso-spacerun:yes'>Â Â Â Â Â  </span>SOA<span style='mso-spacerun:yes'>Â Â Â Â  </span>ns.example.com. root.example.com. (<o:p></o:p></span></pre><pre><span
+lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  </span>2<span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â  </span>; Serial<o:p></o:p></span></pre><pre><span
+lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  </span>604800<span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â  </span>; Refresh<o:p></o:p></span></pre><pre><span
+lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  </span>86400<span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â  </span>; Retry<o:p></o:p></span></pre><pre><span
+lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  </span>2419200<span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â  </span>; Expire<o:p></o:p></span></pre><pre><span
+lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  </span>604800 )<span style='mso-spacerun:yes'>Â Â Â Â Â Â  </span>; Negative Cache TTL<o:p></o:p></span></pre><pre><span
 lang=EN-US style='font-size:11.0pt'>;<o:p></o:p></span></pre><pre><span
-lang=EN-US style='font-size:11.0pt'>@<span style='mso-spacerun:yes'>       </span>IN<span style='mso-spacerun:yes'>      </span>NS<span style='mso-spacerun:yes'>      </span>ns.<o:p></o:p></span></pre><pre><span
-lang=EN-US style='font-size:11.0pt'>10<span style='mso-spacerun:yes'>      </span>IN<span style='mso-spacerun:yes'>      </span>PTR<span style='mso-spacerun:yes'>     </span>ns.example.com.<o:p></o:p></span></pre>
+lang=EN-US style='font-size:11.0pt'>@<span style='mso-spacerun:yes'>Â Â Â Â Â Â  </span>IN<span style='mso-spacerun:yes'>Â Â Â Â Â  </span>NS<span style='mso-spacerun:yes'>Â Â Â Â Â  </span>ns.<o:p></o:p></span></pre><pre><span
+lang=EN-US style='font-size:11.0pt'>10<span style='mso-spacerun:yes'>Â Â Â Â Â  </span>IN<span style='mso-spacerun:yes'>Â Â Â Â Â  </span>PTR<span style='mso-spacerun:yes'>Â Â Â Â  </span>ns.example.com.<o:p></o:p></span></pre>
 
 <p style='text-align:justify'><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>The <em><span
@@ -14975,20 +14975,20 @@ style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Times New Roman"'>: <o:p></o:p></span></p>
 
 <pre style='margin-left:43.2pt'><span lang=EN-US style='font-size:11.0pt'>zone &quot;example.com&quot; {<o:p></o:p></span></pre><pre
-style='margin-left:43.2pt'><span lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>        </span>type master;<o:p></o:p></span></pre><pre
+style='margin-left:43.2pt'><span lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â  </span>type master;<o:p></o:p></span></pre><pre
 style='margin-left:43.2pt'><span lang=EN-US style='font-size:11.0pt'><span
 style='mso-tab-count:1'> </span>file &quot;/etc/bind/db.example.com&quot;;<o:p></o:p></span></pre><pre
-style='margin-left:43.2pt'><span lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>        </span>allow-transfer { 192.168.1.11; };<o:p></o:p></span></pre><pre
+style='margin-left:43.2pt'><span lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â  </span>allow-transfer { 192.168.1.11; };<o:p></o:p></span></pre><pre
 style='margin-left:43.2pt'><span lang=EN-US style='font-size:11.0pt'>};<o:p></o:p></span></pre><pre
 style='margin-left:43.2pt'><span lang=EN-US style='font-size:11.0pt'><o:p>&nbsp;</o:p></span></pre><pre
 style='margin-left:43.2pt'><span lang=EN-US style='font-size:11.0pt'>zone &quot;1.168.192.in-addr.arpa&quot; {<o:p></o:p></span></pre><pre
-style='margin-left:43.2pt'><span lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>        </span>type master;<o:p></o:p></span></pre><pre
-style='margin-left:43.2pt'><span lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>        </span>notify no;<o:p></o:p></span></pre><pre
-style='margin-left:43.2pt'><span lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>        </span>file &quot;/etc/bind/db.192&quot;;<o:p></o:p></span></pre><pre
+style='margin-left:43.2pt'><span lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â  </span>type master;<o:p></o:p></span></pre><pre
+style='margin-left:43.2pt'><span lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â  </span>notify no;<o:p></o:p></span></pre><pre
+style='margin-left:43.2pt'><span lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â  </span>file &quot;/etc/bind/db.192&quot;;<o:p></o:p></span></pre><pre
 style='margin-left:43.2pt'><span lang=EN-US style='font-size:11.0pt'><span
 style='mso-tab-count:1'> </span>allow-transfer { 192.168.1.11; };<o:p></o:p></span></pre><pre><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Courier New"'><span style='mso-tab-count:1'>                   </span>};<o:p></o:p></span></pre><pre><span
+"Courier New"'><span style='mso-tab-count:1'>Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  </span>};<o:p></o:p></span></pre><pre><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Courier New"'>Replace <em><span style='font-family:"Calibri",sans-serif;
 mso-bidi-font-family:"Courier New"'>192.168.1.11</span></em> with the IP Address of your Secondary nameserver<o:p></o:p></span></pre>
@@ -15005,16 +15005,16 @@ Reverse zones: <o:p></o:p></span></p>
 
 <pre style='margin-left:45.8pt'><span lang=EN-US style='font-size:11.0pt'>zone &quot;example.com&quot; {<o:p></o:p></span></pre><pre
 style='margin-left:45.8pt'><span lang=EN-US style='font-size:11.0pt'><span
-style='mso-tab-count:1'>       </span>type slave;<o:p></o:p></span></pre><pre
-style='margin-left:45.8pt'><span lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>        </span>file &quot;/var/cache/bind/db.example.com&quot;;<o:p></o:p></span></pre><pre
-style='margin-left:45.8pt'><span lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>        </span>masters { 192.168.1.10; };<o:p></o:p></span></pre><pre
-style='margin-left:45.8pt'><span lang=EN-US style='font-size:11.0pt'>};<span style='mso-spacerun:yes'>        </span><o:p></o:p></span></pre><pre
-style='margin-left:45.8pt'><span lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>      </span><o:p></o:p></span></pre><pre
+style='mso-tab-count:1'>Â Â Â Â Â Â  </span>type slave;<o:p></o:p></span></pre><pre
+style='margin-left:45.8pt'><span lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â  </span>file &quot;/var/cache/bind/db.example.com&quot;;<o:p></o:p></span></pre><pre
+style='margin-left:45.8pt'><span lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â  </span>masters { 192.168.1.10; };<o:p></o:p></span></pre><pre
+style='margin-left:45.8pt'><span lang=EN-US style='font-size:11.0pt'>};<span style='mso-spacerun:yes'>Â Â Â Â Â Â Â  </span><o:p></o:p></span></pre><pre
+style='margin-left:45.8pt'><span lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>Â Â Â Â Â Â </span><o:p></o:p></span></pre><pre
 style='margin-left:45.8pt'><span lang=EN-US style='font-size:11.0pt'>zone &quot;1.168.192.in-addr.arpa&quot; {<o:p></o:p></span></pre><pre
 style='margin-left:45.8pt'><span lang=EN-US style='font-size:11.0pt'><span
-style='mso-tab-count:1'>       </span>type slave;<o:p></o:p></span></pre><pre
-style='margin-left:45.8pt'><span lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>        </span>file &quot;/var/cache/bind/db.192&quot;;<o:p></o:p></span></pre><pre
-style='margin-left:45.8pt'><span lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>        </span>masters { 192.168.1.10; };<o:p></o:p></span></pre><pre
+style='mso-tab-count:1'>Â Â Â Â Â Â  </span>type slave;<o:p></o:p></span></pre><pre
+style='margin-left:45.8pt'><span lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â  </span>file &quot;/var/cache/bind/db.192&quot;;<o:p></o:p></span></pre><pre
+style='margin-left:45.8pt'><span lang=EN-US style='font-size:11.0pt'><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â  </span>masters { 192.168.1.10; };<o:p></o:p></span></pre><pre
 style='margin-left:45.8pt'><span lang=EN-US style='font-size:11.0pt'>};<o:p></o:p></span></pre><pre><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Courier New"'><o:p>&nbsp;</o:p></span></pre><pre><span lang=EN-US
@@ -15052,7 +15052,7 @@ style='font-family:"Calibri",sans-serif;mso-bidi-font-family:"Courier New"'>Seri
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Courier New"'> The default directory for non-authoritative zone files is <code><span
 style='mso-ansi-font-size:11.0pt;mso-bidi-font-size:11.0pt;font-family:"Calibri",sans-serif;
-mso-bidi-font-family:"Courier New"'>/var/cache/bind/</span></code>.<span style='mso-spacerun:yes'>  </span></span><span
+mso-bidi-font-family:"Courier New"'>/var/cache/bind/</span></code>.<span style='mso-spacerun:yes'>Â  </span></span><span
 lang=EN-US style='font-size:11.0pt'><o:p></o:p></span></pre>
 
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
@@ -15072,7 +15072,7 @@ mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 _Toc240908260'><span lang=EN-US>Chapter 12: HTTPD - Apache2 Web Server</span></span></a></h1>
 
 <h1><!--[if supportFields]><span lang=EN-US><span style='mso-element:field-begin'></span><span
-style='mso-spacerun:yes'> </span>XE &quot;HTTPD - Apache2 Web Server&quot; </span><![endif]--><!--[if supportFields]><span
+style='mso-spacerun:yes'>Â </span>XE &quot;HTTPD - Apache2 Web Server&quot; </span><![endif]--><!--[if supportFields]><span
 lang=EN-US><span style='mso-element:field-end'></span></span><![endif]--></h1>
 
 <p style='text-align:justify'><span lang=EN-US style='font-size:11.0pt;
@@ -15087,7 +15087,7 @@ style='font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>
 
 <p style='text-align:justify'><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'><span
-style='mso-spacerun:yes'> </span>The most common protocol used to transfer Web
+style='mso-spacerun:yes'>Â </span>The most common protocol used to transfer Web
 pages is the Hyper Text Transfer Protocol (HTTP). Protocols such as Hyper Text
 Transfer Protocol over Secure Sockets Layer (HTTPS), and File Transfer Protocol
 (FTP), a protocol for uploading and downloading files, are also supported.<o:p></o:p></span></p>
@@ -15118,7 +15118,7 @@ Ubuntu Linux. To install Apache2: <o:p></o:p></span></p>
 <p style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l15 level1 lfo25;
 tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 10.0pt;mso-bidi-font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:
-Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>Â·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>At a
@@ -15126,8 +15126,8 @@ terminal prompt enter the following command: <o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><strong><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Times New Roman"'><span style='mso-spacerun:yes'> </span><span
-style='mso-tab-count:1'>  </span></span></strong><strong><span lang=EN-US
+"Times New Roman"'><span style='mso-spacerun:yes'>Â </span><span
+style='mso-tab-count:1'>Â  </span></span></strong><strong><span lang=EN-US
 style='font-size:11.0pt;font-family:"Courier New";font-weight:normal'>$</span></strong><strong><span
 lang=EN-US style='font-size:11.0pt;font-family:"Courier New"'> sudo apt-get
 install apache2</span></strong><strong><span lang=EN-US style='font-size:11.0pt;
@@ -15151,7 +15151,7 @@ following files and directories: <o:p></o:p></span></p>
 <p style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l17 level1 lfo26;
 tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 10.0pt;mso-bidi-font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:
-Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>Â·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><em><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>apache2.conf:</span></em><span
@@ -15163,7 +15163,7 @@ are <em><span style='font-family:"Calibri",sans-serif;mso-bidi-font-family:
 <p style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l17 level1 lfo26;
 tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 10.0pt;mso-bidi-font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:
-Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>Â·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><em><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>conf.d:</span></em><span
@@ -15177,7 +15177,7 @@ symlinks, to this directory. <o:p></o:p></span></p>
 l17 level1 lfo26;tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US
 style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
-style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><em><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>envvars:</span></em><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
@@ -15188,7 +15188,7 @@ set. <o:p></o:p></span></p>
 <p style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l17 level1 lfo26;
 tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 10.0pt;mso-bidi-font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:
-Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>Â·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><em><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>httpd.conf:</span></em><span
@@ -15203,7 +15203,7 @@ specific</span></em> configuration options that globally effect Apache2. <o:p></
 l17 level1 lfo26;tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US
 style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
-style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><em><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>mods-available:</span></em><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
@@ -15216,7 +15216,7 @@ however. <o:p></o:p></span></p>
 l17 level1 lfo26;tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US
 style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
-style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><em><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>mods-enabled:</span></em><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
@@ -15233,7 +15233,7 @@ mso-bidi-font-family:"Times New Roman"'>apache2</span></strong> is restarted. <o
 l17 level1 lfo26;tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US
 style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
-style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><em><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>ports.conf:</span></em><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
@@ -15244,7 +15244,7 @@ Apache2 is listening on. <o:p></o:p></span></p>
 l17 level1 lfo26;tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US
 style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
-style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><em><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>sites-available:</span></em><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
@@ -15257,7 +15257,7 @@ sites that have separate configurations. <o:p></o:p></span></p>
 l17 level1 lfo26;tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US
 style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
-style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><em><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>sites-enabled:</span></em><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
@@ -15299,13 +15299,13 @@ name="_Toc242071454"><span lang=EN-US>12.3 Basic Settings</span></a></span></h2>
 <p style='text-align:justify'><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>This
 section explains Apache2 server essential configuration parameters.<span
-style='mso-spacerun:yes'>  </span><o:p></o:p></span></p>
+style='mso-spacerun:yes'>Â  </span><o:p></o:p></span></p>
 
 <p style='margin-left:36.0pt;text-align:justify;text-indent:-18.0pt;mso-list:
 l25 level1 lfo27;tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US
 style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
-style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>Apache2
 ships with a virtual-host-friendly default configuration. That is, it is
@@ -15341,7 +15341,7 @@ lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-fon
 l25 level1 lfo27;tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US
 style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
-style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>If you
 wish to configure a new virtual host or site, copy that file into the same
@@ -15357,7 +15357,7 @@ lang=EN-US style='font-size:11.0pt;font-family:"Courier New"'><o:p></o:p></span>
 l25 level1 lfo27;tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US
 style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
-style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>Edit
 the new file to configure the new site using some of the directives described
@@ -15367,7 +15367,7 @@ below. <o:p></o:p></span></p>
 l25 level1 lfo27;tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US
 style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
-style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>The <em><span
 style='font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>ServerAdmin</span></em>
@@ -15382,7 +15382,7 @@ directive in your site's configuration file in /etc/apache2/sites-available. <o:
 l25 level1 lfo27;tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US
 style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
-style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>The <em><span
 style='font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>Listen</span></em>
@@ -15402,7 +15402,7 @@ style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 l25 level1 lfo27;tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US
 style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
-style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>The <em><span
 style='font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>ServerName</span></em>
@@ -15441,7 +15441,7 @@ style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 l25 level1 lfo27;tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US
 style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
-style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>The <em><span
 style='font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>DocumentRoot</span></em>
@@ -15524,7 +15524,7 @@ the virtual host settings, the default value is used. <o:p></o:p></span></p>
 l24 level1 lfo28;tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US
 style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
-style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>The <em><span
 style='font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>DirectoryIndex</span></em>
@@ -15553,7 +15553,7 @@ matching any of these names, the first will be displayed. <o:p></o:p></span></p>
 l24 level1 lfo28;tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US
 style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
-style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>The <em><span
 style='font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>ErrorDocument</span></em>
@@ -15581,7 +15581,7 @@ this command: <o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><strong><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Times New Roman"'><span style='mso-spacerun:yes'> </span></span></strong><strong><span
+"Times New Roman"'><span style='mso-spacerun:yes'>Â </span></span></strong><strong><span
 lang=EN-US style='font-size:11.0pt;font-family:"Courier New";font-weight:normal'>$</span></strong><strong><span
 lang=EN-US style='font-size:11.0pt;font-family:"Courier New"'> grep
 ErrorDocument /etc/apache2/apache2.conf</span></strong><span lang=EN-US
@@ -15591,7 +15591,7 @@ style='font-size:11.0pt;font-family:"Courier New"'><o:p></o:p></span></p>
 l24 level1 lfo28;tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US
 style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
-style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>By
 default, the server writes the transfer log to the file </span><code><span
@@ -15624,7 +15624,7 @@ lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-fon
 <p style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l24 level1 lfo28;
 tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 10.0pt;mso-bidi-font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:
-Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>Â·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>Some
@@ -15683,7 +15683,7 @@ lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-fon
 11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>
 - Allow server-side includes. Server-side includes allow an HTML file to <em><span
 style='font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>include</span></em>
-other files. This is not a common option.<span style='mso-spacerun:yes'> 
+other files. This is not a common option.<span style='mso-spacerun:yes'>Â 
 </span><o:p></o:p></span></p>
 
 <p style='margin-left:72.0pt;text-align:justify;text-indent:-18.0pt;mso-list:
@@ -15713,7 +15713,7 @@ style='font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>
 
 <p style='margin-left:72.0pt;text-align:justify'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Times New Roman"'><span style='mso-spacerun:yes'> </span>For security reasons,
+"Times New Roman"'><span style='mso-spacerun:yes'>Â </span>For security reasons,
 this should usually not be set, and certainly should not be set on your
 DocumentRoot directory. Enable this option carefully on a per-directory basis
 only if you are certain you want users to see the entire contents of the
@@ -15728,7 +15728,7 @@ lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-fon
 "Times New Roman"'>Multiview</span></strong><span lang=EN-US style='font-size:
 11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>
 - Support content-negotiated multiviews; this option is disabled by default for
-security reasons.<span style='mso-spacerun:yes'>  </span><o:p></o:p></span></p>
+security reasons.<span style='mso-spacerun:yes'>Â  </span><o:p></o:p></span></p>
 
 <p style='margin-left:72.0pt;text-align:justify;text-indent:-18.0pt;mso-list:
 l24 level2 lfo28;tab-stops:list 72.0pt'><![if !supportLists]><span lang=EN-US
@@ -15818,7 +15818,7 @@ Authentication</span></em> module: <o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><strong><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Times New Roman"'><span style='mso-spacerun:yes'> </span></span></strong><strong><span
+"Times New Roman"'><span style='mso-spacerun:yes'>Â </span></span></strong><strong><span
 lang=EN-US style='font-size:11.0pt;font-family:"Courier New";font-weight:normal'>$</span></strong><strong><span
 lang=EN-US style='font-size:11.0pt;font-family:"Courier New"'> sudo apt-get
 install libapache2-mod-auth-mysql</span></strong><span lang=EN-US
@@ -15912,7 +15912,7 @@ and key generated by the <strong><span style='font-family:"Calibri",sans-serif;
 mso-bidi-font-family:"Times New Roman"'>ssl-cert</span></strong> package. They
 are good for testing, but the auto-generated certificate and key should be
 replaced by a certificate specific to the site or server.<span
-style='mso-spacerun:yes'>  </span><o:p></o:p></span></p>
+style='mso-spacerun:yes'>Â  </span><o:p></o:p></span></p>
 
 <p style='text-align:justify'><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>To
@@ -15970,7 +15970,7 @@ mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 _Toc240908266'><span lang=EN-US>Chapter 13: MySQL</span></span></a></h1>
 
 <h1><!--[if supportFields]><span lang=EN-US><span style='mso-element:field-begin'></span><span
-style='mso-spacerun:yes'> </span>XE &quot;MySQL&quot; </span><![endif]--><!--[if supportFields]><span
+style='mso-spacerun:yes'>Â </span>XE &quot;MySQL&quot; </span><![endif]--><!--[if supportFields]><span
 lang=EN-US><span style='mso-element:field-end'></span></span><![endif]--></h1>
 
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
@@ -16019,9 +16019,9 @@ see the following line or something similar: <o:p></o:p></span></p>
 
 <p class=MsoNormal style='text-align:justify;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
 lang=EN-US style='font-size:11.0pt;font-family:"Courier New"'>tcp <span
-style='mso-spacerun:yes'>  </span>0<span style='mso-spacerun:yes'>  </span>0
-localhost:mysql<span style='mso-spacerun:yes'>     </span>*:*<span
-style='mso-spacerun:yes'>     </span>LISTEN<span style='mso-spacerun:yes'>     
+style='mso-spacerun:yes'>Â Â </span>0<span style='mso-spacerun:yes'>Â  </span>0
+localhost:mysql<span style='mso-spacerun:yes'>Â Â Â Â  </span>*:*<span
+style='mso-spacerun:yes'>Â Â Â Â  </span>LISTEN<span style='mso-spacerun:yes'>Â Â Â Â Â 
 </span>2556/mysqld<o:p></o:p></span></p>
 
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
@@ -16057,7 +16057,7 @@ configure <b>MySQL</b> to listen for connections from network hosts, change the
 
 <p class=MsoNormal style='text-align:justify;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
 lang=EN-US style='font-size:11.0pt;font-family:"Courier New"'>bind-address<span
-style='mso-spacerun:yes'>            </span>= 192.168.0.5 <o:p></o:p></span></p>
+style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â  </span>= 192.168.0.5 <o:p></o:p></span></p>
 
 <p class=MsoNormal style='text-align:justify;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span
 lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
@@ -16105,7 +16105,7 @@ mso-bidi-language:AR-SA'><br clear=all style='page-break-before:always'>
 _Toc240908269'><span lang=EN-US>Chapter 14: Postfix (Mail server)</span></span></a></h1>
 
 <h1><!--[if supportFields]><span lang=EN-US><span style='mso-element:field-begin'></span><span
-style='mso-spacerun:yes'> </span>XE &quot;Postfix (Mail server)&quot; </span><![endif]--><!--[if supportFields]><span
+style='mso-spacerun:yes'>Â </span>XE &quot;Postfix (Mail server)&quot; </span><![endif]--><!--[if supportFields]><span
 lang=EN-US><span style='mso-element:field-end'></span></span><![endif]--></h1>
 
 <p style='text-align:justify'><strong><span lang=EN-US style='font-size:11.0pt;
@@ -16166,7 +16166,7 @@ On each screen, select the following values: <o:p></o:p></span></p>
 <p style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l21 level1 lfo29;
 tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 10.0pt;mso-bidi-font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:
-Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>Â·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>Internet
@@ -16175,7 +16175,7 @@ Site<o:p></o:p></span></p>
 <p style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l21 level1 lfo29;
 tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 10.0pt;mso-bidi-font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:
-Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>Â·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>mail.example.com<o:p></o:p></span></p>
@@ -16183,7 +16183,7 @@ font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>mail.ex
 <p style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l21 level1 lfo29;
 tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 10.0pt;mso-bidi-font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:
-Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>Â·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>steve<o:p></o:p></span></p>
@@ -16191,7 +16191,7 @@ font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>steve<o
 <p style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l21 level1 lfo29;
 tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 10.0pt;mso-bidi-font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:
-Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>Â·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>mail.example.com,
@@ -16200,7 +16200,7 @@ localhost.localdomain, localhost<o:p></o:p></span></p>
 <p style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l21 level1 lfo29;
 tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 10.0pt;mso-bidi-font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:
-Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>Â·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>No<o:p></o:p></span></p>
@@ -16208,7 +16208,7 @@ font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>No<o:p>
 <p style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l21 level1 lfo29;
 tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 10.0pt;mso-bidi-font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:
-Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>Â·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>127.0.0.0/8
@@ -16217,7 +16217,7 @@ font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>127.0.0
 <p style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l21 level1 lfo29;
 tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 10.0pt;mso-bidi-font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:
-Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>Â·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>0<o:p></o:p></span></p>
@@ -16225,7 +16225,7 @@ font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>0<o:p><
 <p style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l21 level1 lfo29;
 tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 10.0pt;mso-bidi-font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:
-Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>Â·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>+<o:p></o:p></span></p>
@@ -16233,7 +16233,7 @@ font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>+<o:p><
 <p style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l21 level1 lfo29;
 tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
 10.0pt;mso-bidi-font-size:11.0pt;font-family:Symbol;mso-fareast-font-family:
-Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>Â·<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>All<o:p></o:p></span></p>
@@ -16280,7 +16280,7 @@ install the package, from a terminal prompt enter: <o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt'><strong><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
-"Times New Roman"'><span style='mso-tab-count:1'>   </span></span></strong><strong><span
+"Times New Roman"'><span style='mso-tab-count:1'>Â Â  </span></span></strong><strong><span
 lang=EN-US style='font-size:11.0pt;font-family:"Courier New";font-weight:normal'>$</span></strong><strong><span
 lang=EN-US style='font-size:11.0pt;font-family:"Courier New"'> sudo apt-get
 install dovecot-postfix</span></strong><span lang=EN-US style='font-size:11.0pt;
@@ -16293,7 +16293,7 @@ wish to further customize. For example, the package uses the certificate and
 key from the <strong><span style='font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Times New Roman"'>ssl-cert</span></strong> package, and in a production
 environment you should use a certificate and key generated for the host.<span
-style='mso-spacerun:yes'>  </span><o:p></o:p></span></p>
+style='mso-spacerun:yes'>Â  </span><o:p></o:p></span></p>
 
 <p style='text-align:justify'><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>Once
@@ -16393,13 +16393,13 @@ lang=EN-US style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-fon
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Times New Roman"'> configuration file: <o:p></o:p></span></p>
 
-<pre style='text-align:justify'><span lang=EN-US style='font-size:11.0pt'>smtp<span style='mso-spacerun:yes'>      </span>inet<span style='mso-spacerun:yes'>  </span>n<span style='mso-spacerun:yes'>       </span>-<span style='mso-spacerun:yes'>       </span>-<span style='mso-spacerun:yes'>       </span>-<span style='mso-spacerun:yes'>       </span>-<span style='mso-spacerun:yes'>       </span>smtpd<o:p></o:p></span></pre>
+<pre style='text-align:justify'><span lang=EN-US style='font-size:11.0pt'>smtp<span style='mso-spacerun:yes'>Â Â Â Â Â  </span>inet<span style='mso-spacerun:yes'>Â  </span>n<span style='mso-spacerun:yes'>Â Â Â Â Â Â  </span>-<span style='mso-spacerun:yes'>Â Â Â Â Â Â  </span>-<span style='mso-spacerun:yes'>Â Â Â Â Â Â  </span>-<span style='mso-spacerun:yes'>Â Â Â Â Â Â  </span>-<span style='mso-spacerun:yes'>Â Â Â Â Â Â  </span>smtpd<o:p></o:p></span></pre>
 
 <p style='text-align:justify'><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>and
 modify it as follows: <o:p></o:p></span></p>
 
-<pre style='text-align:justify'><span lang=EN-US style='font-size:11.0pt'>smtp<span style='mso-spacerun:yes'>      </span>inet<span style='mso-spacerun:yes'>  </span>n<span style='mso-spacerun:yes'>       </span>-<span style='mso-spacerun:yes'>       </span>n<span style='mso-spacerun:yes'>       </span>-<span style='mso-spacerun:yes'>      </span><span style='mso-spacerun:yes'> </span>-<span style='mso-spacerun:yes'>       </span>smtpd<o:p></o:p></span></pre>
+<pre style='text-align:justify'><span lang=EN-US style='font-size:11.0pt'>smtp<span style='mso-spacerun:yes'>Â Â Â Â Â  </span>inet<span style='mso-spacerun:yes'>Â  </span>n<span style='mso-spacerun:yes'>Â Â Â Â Â Â  </span>-<span style='mso-spacerun:yes'>Â Â Â Â Â Â  </span>n<span style='mso-spacerun:yes'>Â Â Â Â Â Â  </span>-<span style='mso-spacerun:yes'>Â Â Â Â Â  </span><span style='mso-spacerun:yes'>Â </span>-<span style='mso-spacerun:yes'>Â Â Â Â Â Â  </span>smtpd<o:p></o:p></span></pre>
 
 <p style='text-align:justify'><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>You
@@ -16455,7 +16455,7 @@ covered above. <o:p></o:p></span></p>
 l2 level1 lfo30;tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US
 style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
-style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>To
 increase <em><span style='font-family:"Calibri",sans-serif;mso-bidi-font-family:
@@ -16473,7 +16473,7 @@ font-family:"Courier New"'><o:p></o:p></span></p>
 l2 level1 lfo30;tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US
 style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
-style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>If you
 are having trouble sending or receiving mail from a specific domain you can add
@@ -16489,7 +16489,7 @@ lang=EN-US style='font-size:11.0pt'><o:p></o:p></span></pre>
 l2 level1 lfo30;tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US
 style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
-style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>You
 can increase the verbosity of any <strong><span style='font-family:"Calibri",sans-serif;
@@ -16503,7 +16503,7 @@ example edit the <em><span style='font-family:"Calibri",sans-serif;mso-bidi-font
 "Times New Roman"'>smtp</span></em> entry: <o:p></o:p></span></p>
 
 <pre style='margin-left:18.0pt;text-align:justify'><span lang=EN-US
-style='font-size:11.0pt'>smtp<span style='mso-spacerun:yes'>      </span>unix<span style='mso-spacerun:yes'>  </span>-<span style='mso-spacerun:yes'>       </span>-<span style='mso-spacerun:yes'>       </span>-<span style='mso-spacerun:yes'>       </span>-<span style='mso-spacerun:yes'>     </span>-<span style='mso-spacerun:yes'>       </span>smtp –v<o:p></o:p></span></pre><pre
+style='font-size:11.0pt'>smtp<span style='mso-spacerun:yes'>Â Â Â Â Â  </span>unix<span style='mso-spacerun:yes'>Â  </span>-<span style='mso-spacerun:yes'>Â Â Â Â Â Â  </span>-<span style='mso-spacerun:yes'>Â Â Â Â Â Â  </span>-<span style='mso-spacerun:yes'>Â Â Â Â Â Â  </span>-<span style='mso-spacerun:yes'>Â Â Â Â  </span>-<span style='mso-spacerun:yes'>Â Â Â Â Â Â  </span>smtp Â–v<o:p></o:p></span></pre><pre
 style='margin-left:18.0pt;text-align:justify'><span lang=EN-US
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 "Courier New"'><o:p>&nbsp;</o:p></span></pre><pre style='margin-left:18.0pt;
@@ -16519,7 +16519,7 @@ style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-bidi-font-family:
 l37 level1 lfo31;tab-stops:list 36.0pt'><![if !supportLists]><span lang=EN-US
 style='font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
-style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN-US style='font-size:11.0pt;
 font-family:"Calibri",sans-serif;mso-bidi-font-family:"Times New Roman"'>To
 increase the amount of information logged when troubleshooting <em><span
